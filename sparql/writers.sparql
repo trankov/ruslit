@@ -1,0 +1,51 @@
+PREFIX schema: <http://schema.org/>
+
+SELECT DISTINCT
+       ?item ?itemLabel
+       ?birthdate ?deathdate
+       ?bplace ?bplaceLabel ?geo
+       ?ethnicity ?ethnicityLabel
+       ?lang ?langLabel
+       ?article
+
+WHERE
+{
+  ?item wdt:P31 wd:Q5. #instance of (P31) human (Q5)
+
+  {SELECT ?item ?lang ?ethnicity WHERE
+   {
+    ?item wdt:P31 wd:Q5. #instance of (P31) human (Q5)
+
+      {?item wdt:P27 wd:Q159.} #country of citizenship (P27) is Russia (Q159)
+    UNION
+      {?item wdt:P27 wd:Q34266.} # or Russian Empire (Q34266)
+    UNION
+      {?item wdt:P27 wd:Q15180.} # or Soviet Union
+    UNION
+      {?item wdt:P27 wd:Q1108445.} # or Ancient Russia
+
+    OPTIONAL { ?item wdt:P6886 ?lang. } #wd:Q7737. # writing language (P6886) is russian (Q7737)
+    OPTIONAL { ?item wdt:P172 ?ethnicity. }
+    }
+   }
+
+
+    { ?item wdt:P106 wd:Q36180. } #occupation (P106) is writer (Q36180)
+  UNION
+    { ?item wdt:P106 wd:Q49757. } #occupation (P106) is poet (Q36180)
+
+  ?item wdt:P569 ?birthdate.
+  OPTIONAL { ?item wdt:P570 ?deathdate. }
+
+  ?item wdt:P19 ?bplace.
+  ?item wdt:P19/wdt:P625+ ?geo.
+
+
+
+  ?article schema:about ?item.
+  ?article schema:isPartOf <https://ru.wikipedia.org/>.
+
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+
+}

@@ -1,0 +1,47 @@
+SELECT DISTINCT
+  ?item ?itemLabel
+  ?dplace ?dplaceLabel ?dgeo
+  ?dmanner ?dmannerLabel
+  ?dcause ?dcauseLabel
+  ?burial ?burialLabel ?burialgeo
+WHERE
+{
+  ?item wdt:P31 wd:Q5. #instance of (P31) human (Q5)
+
+  {SELECT ?item WHERE
+   {
+    ?item wdt:P31 wd:Q5. #instance of (P31) human (Q5)
+
+      {?item wdt:P27 wd:Q159.} #country of citizenship (P27) is Russia (Q159)
+    UNION
+      {?item wdt:P27 wd:Q34266.} # or Russian Empire (Q34266)
+    UNION
+      {?item wdt:P27 wd:Q15180.} # or Soviet Union
+    UNION
+      {?item wdt:P27 wd:Q1108445.} # or Ancient Russia
+
+    }
+   }
+
+
+    { ?item wdt:P106 wd:Q36180. } #occupation (P106) is writer (Q36180)
+  UNION
+    { ?item wdt:P106 wd:Q49757. } #occupation (P106) is poet (Q36180)
+
+
+  ?item wdt:P20 ?dplace.
+  ?item wdt:P20/wdt:P625+ ?dgeo.
+OPTIONAL { ?item wdt:P1196 ?dmanner. }
+OPTIONAL { ?item wdt:P509 ?dcause. }
+OPTIONAL { ?item wdt:P119 ?burial. }
+OPTIONAL { ?item wdt:P119/wdt:P625+ ?burialgeo }
+
+
+
+#  ?article schema:about ?item.
+#  ?article schema:isPartOf <https://ru.wikipedia.org/>.
+
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+
+}

@@ -1,0 +1,2260 @@
+item,itemLabel,count
+http://www.wikidata.org/entity/Q7243,Лев Николаевич Толстой,30
+http://www.wikidata.org/entity/Q5685,Антон Павлович Чехов,24
+http://www.wikidata.org/entity/Q7200,Александр Сергеевич Пушкин,23
+http://www.wikidata.org/entity/Q42831,Иван Сергеевич Тургенев,22
+http://www.wikidata.org/entity/Q991,Фёдор Михайлович Достоевский,18
+http://www.wikidata.org/entity/Q12706,Максим Горький,18
+http://www.wikidata.org/entity/Q46599,Михаил Юрьевич Лермонтов,18
+http://www.wikidata.org/entity/Q191480,Иван Андреевич Крылов,14
+http://www.wikidata.org/entity/Q132964,Владимир Владимирович Маяковский,13
+http://www.wikidata.org/entity/Q43718,Николай Васильевич Гоголь,13
+http://www.wikidata.org/entity/Q164765,Александр Александрович Блок,12
+http://www.wikidata.org/entity/Q5752,Пётр Алексеевич Кропоткин,12
+http://www.wikidata.org/entity/Q33391,Лев Давидович Троцкий,12
+http://www.wikidata.org/entity/Q41502,Генрик Сенкевич,12
+http://www.wikidata.org/entity/Q27645,Михаил Александрович Бакунин,11
+http://www.wikidata.org/entity/Q121180,"Реймонт, Владислав",10
+http://www.wikidata.org/entity/Q208003,Николай Алексеевич Некрасов,10
+http://www.wikidata.org/entity/Q134958,Тарас Григорьевич Шевченко,10
+http://www.wikidata.org/entity/Q212575,Алексей Константинович Толстой,10
+http://www.wikidata.org/entity/Q31628,Сергей Александрович Есенин,10
+http://www.wikidata.org/entity/Q257852,Мария Конопницкая,9
+http://www.wikidata.org/entity/Q189665,Иван Александрович Гончаров,9
+http://www.wikidata.org/entity/Q133855,Гийом Аполлинер,9
+http://www.wikidata.org/entity/Q335064,Владимир Галактионович Короленко,9
+http://www.wikidata.org/entity/Q310866,Леонид Николаевич Андреев,9
+http://www.wikidata.org/entity/Q444969,Алексей Васильевич Кольцов,9
+http://www.wikidata.org/entity/Q270275,Гавриил Романович Державин,8
+http://www.wikidata.org/entity/Q271457,Александр Иванович Куприн,8
+http://www.wikidata.org/entity/Q380728,Фёдор Сологуб,8
+http://www.wikidata.org/entity/Q7604,Леонард Эйлер,8
+http://www.wikidata.org/entity/Q11758,Людвик Лазарь Заменгоф,8
+http://www.wikidata.org/entity/Q326459,Дмитрий Сергеевич Мережковский,7
+http://www.wikidata.org/entity/Q1392335,Антоний Фердинанд Оссендовский,7
+http://www.wikidata.org/entity/Q37217,Фёдор Иванович Тютчев,7
+http://www.wikidata.org/entity/Q79969,Эмма Гольдман,6
+http://www.wikidata.org/entity/Q82925,Джозеф Конрад,6
+http://www.wikidata.org/entity/Q364252,Евгений Абрамович Баратынский,6
+http://www.wikidata.org/entity/Q189454,Елена Петровна Блаватская,6
+http://www.wikidata.org/entity/Q333222,Всеволод Михайлович Гаршин,6
+http://www.wikidata.org/entity/Q348690,Адам Аснык,6
+http://www.wikidata.org/entity/Q157623,Василий Андреевич Жуковский,6
+http://www.wikidata.org/entity/Q238090,Шолом-Алейхем,6
+http://www.wikidata.org/entity/Q245355,Зыгмунт Красинский,6
+http://www.wikidata.org/entity/Q2207346,Дмитрий Наркисович Мамин-Сибиряк,6
+http://www.wikidata.org/entity/Q602217,Аркадий Тимофеевич Аверченко,6
+http://www.wikidata.org/entity/Q1047757,Семён Яковлевич Надсон,6
+http://www.wikidata.org/entity/Q46602,Иван Алексеевич Бунин,6
+http://www.wikidata.org/entity/Q314212,Афанасий Афанасьевич Фет,5
+http://www.wikidata.org/entity/Q254524,Юзеф Игнацы Крашевский,5
+http://www.wikidata.org/entity/Q314498,Константин Дмитриевич Бальмонт,5
+http://www.wikidata.org/entity/Q186709,Николай Иванович Бухарин,5
+http://www.wikidata.org/entity/Q316374,Валерий Яковлевич Брюсов,5
+http://www.wikidata.org/entity/Q333900,"Крейцвальд, Фридрих",5
+http://www.wikidata.org/entity/Q192279,Алексей Николаевич Толстой,5
+http://www.wikidata.org/entity/Q191598,Николай Михайлович Карамзин,5
+http://www.wikidata.org/entity/Q201221,Александр Иванович Герцен,5
+http://www.wikidata.org/entity/Q448143,Михаил Петрович Арцыбашев,5
+http://www.wikidata.org/entity/Q472576,Владислав Сырокомля,5
+http://www.wikidata.org/entity/Q2299317,Яков Петрович Полонский,5
+http://www.wikidata.org/entity/Q2419891,Аполлон Николаевич Майков,5
+http://www.wikidata.org/entity/Q741969,Николай Максимович Минский,5
+http://www.wikidata.org/entity/Q1392686,Иван Саввич Никитин,5
+http://www.wikidata.org/entity/Q377,Янка Купала,5
+http://www.wikidata.org/entity/Q25973,Герман Гессе,5
+http://www.wikidata.org/entity/Q42398,Михаил Шолохов,5
+http://www.wikidata.org/entity/Q80440,Анна Андреевна Ахматова,4
+http://www.wikidata.org/entity/Q358497,Алексей Степанович Хомяков,4
+http://www.wikidata.org/entity/Q282280,Владимир Сергеевич Соловьёв,4
+http://www.wikidata.org/entity/Q298033,Леся Украинка,4
+http://www.wikidata.org/entity/Q144439,Болеслав Прус,4
+http://www.wikidata.org/entity/Q209004,Николай Семёнович Лесков,4
+http://www.wikidata.org/entity/Q359705,Хаим Нахман Бялик,4
+http://www.wikidata.org/entity/Q240174,"Ожешко, Элиза",4
+http://www.wikidata.org/entity/Q237056,"Койдула, Лидия",4
+http://www.wikidata.org/entity/Q159933,Дмитрий Константинович Кантемир,4
+http://www.wikidata.org/entity/Q2371856,Константин Михайлович Фофанов,4
+http://www.wikidata.org/entity/Q2374943,Всеволод Владимирович Крестовский,4
+http://www.wikidata.org/entity/Q706033,Пантелеймон Сергеевич Романов,4
+http://www.wikidata.org/entity/Q739286,"Ленартович, Теофил",4
+http://www.wikidata.org/entity/Q1368254,Казимир Феликсович Валишевский,4
+http://www.wikidata.org/entity/Q4346900,Рафаэл Патканян,4
+http://www.wikidata.org/entity/Q1712767,Юлиус Крон,4
+http://www.wikidata.org/entity/Q24348,Пётр Филиппович Якубович,4
+http://www.wikidata.org/entity/Q41239,Константин Эдуардович Циолковский,4
+http://www.wikidata.org/entity/Q49080,Исаак Эммануилович Бабель,4
+http://www.wikidata.org/entity/Q56705,Александр Ходзько,4
+http://www.wikidata.org/entity/Q58720,Михаил Васильевич Ломоносов,4
+http://www.wikidata.org/entity/Q171976,Александр Николаевич Островский,3
+http://www.wikidata.org/entity/Q314189,Лев Исаакович Шестов,3
+http://www.wikidata.org/entity/Q315158,Мирза Фатали Ахундов,3
+http://www.wikidata.org/entity/Q315188,Сергей Тимофеевич Аксаков,3
+http://www.wikidata.org/entity/Q367109,Ян Потоцкий,3
+http://www.wikidata.org/entity/Q317040,Важа Пшавела,3
+http://www.wikidata.org/entity/Q184535,Софья Васильевна Ковалевская,3
+http://www.wikidata.org/entity/Q108314,Антон Иванович Деникин,3
+http://www.wikidata.org/entity/Q266127,Даниил Иванович Хармс,3
+http://www.wikidata.org/entity/Q188526,Марина Ивановна Цветаева,3
+http://www.wikidata.org/entity/Q189950,Осип Эмильевич Мандельштам,3
+http://www.wikidata.org/entity/Q400122,Агафангел Ефимович Крымский,3
+http://www.wikidata.org/entity/Q333411,Илья Григорьевич Чавчавадзе,3
+http://www.wikidata.org/entity/Q335142,Александр Александрович Богданов,3
+http://www.wikidata.org/entity/Q380506,"Фредро, Александр",3
+http://www.wikidata.org/entity/Q380797,Ованес Туманян,3
+http://www.wikidata.org/entity/Q192442,Николай Михайлович Пржевальский,3
+http://www.wikidata.org/entity/Q348497,Илья Григорьевич Эренбург,3
+http://www.wikidata.org/entity/Q340122,"Норвид, Циприан Камиль",3
+http://www.wikidata.org/entity/Q204868,Евгений Иванович Замятин,3
+http://www.wikidata.org/entity/Q439566,Демьян Бедный,3
+http://www.wikidata.org/entity/Q312627,Станислав Выспяньский,3
+http://www.wikidata.org/entity/Q218319,Зофья Налковская,3
+http://www.wikidata.org/entity/Q211785,Михаил Евграфович Салтыков-Щедрин,3
+http://www.wikidata.org/entity/Q471207,Максим Адамович Богданович,3
+http://www.wikidata.org/entity/Q2382842,Пантелеймон Александрович Кулиш,3
+http://www.wikidata.org/entity/Q2367098,Николай Георгиевич Гарин-Михайловский,3
+http://www.wikidata.org/entity/Q4152672,Виктор Михайлович Гусев,3
+http://www.wikidata.org/entity/Q560238,Николай Мелитонович Бараташвили,3
+http://www.wikidata.org/entity/Q561639,Фаддей Венедиктович Булгарин,3
+http://www.wikidata.org/entity/Q600678,Алексей Николаевич Плещеев,3
+http://www.wikidata.org/entity/Q4236579,"Коц, Аркадий Яковлевич",3
+http://www.wikidata.org/entity/Q4234544,Фёдор Евгеньевич Корш,3
+http://www.wikidata.org/entity/Q685053,Викентий Викентьевич Вересаев,3
+http://www.wikidata.org/entity/Q4184678,"Закир, Касым-бек",3
+http://www.wikidata.org/entity/Q2618170,Алексей Николаевич Апухтин,3
+http://www.wikidata.org/entity/Q2639333,Михаил Александрович Максимович,3
+http://www.wikidata.org/entity/Q760790,Август Альквист,3
+http://www.wikidata.org/entity/Q739476,Q739476,3
+http://www.wikidata.org/entity/Q924927,"Головинский, Матвей Васильевич",3
+http://www.wikidata.org/entity/Q764438,"Нилус, Сергей Александрович",3
+http://www.wikidata.org/entity/Q2718475,Владимир Григорьевич Чертков,3
+http://www.wikidata.org/entity/Q742659,Николай Иванович Костомаров,3
+http://www.wikidata.org/entity/Q2636522,Ашуг Алескер,3
+http://www.wikidata.org/entity/Q2638032,Игнатий Николаевич Потапенко,3
+http://www.wikidata.org/entity/Q737503,Юхан Лийв,3
+http://www.wikidata.org/entity/Q973869,Мирза Шафи Вазех,3
+http://www.wikidata.org/entity/Q1254858,"Гощинский, Северин",3
+http://www.wikidata.org/entity/Q1355484,"Залеский, Юзеф Богдан",3
+http://www.wikidata.org/entity/Q1390527,Семён Григорьевич Фруг,3
+http://www.wikidata.org/entity/Q1397000,"Ершов, Пётр Павлович",3
+http://www.wikidata.org/entity/Q1737531,Казимир Владислав Войцицкий,3
+http://www.wikidata.org/entity/Q1819399,Леонид Петрович Радин,3
+http://www.wikidata.org/entity/Q12122449,Мельников Владимир Николаевич,3
+http://www.wikidata.org/entity/Q9382873,Влодзимеж Вольский,3
+http://www.wikidata.org/entity/Q10853722,Q10853722,3
+http://www.wikidata.org/entity/Q835,Михаил Афанасьевич Булгаков,3
+http://www.wikidata.org/entity/Q862,Иосиф Александрович Бродский,3
+http://www.wikidata.org/entity/Q19425,Пётр Андреевич Вяземский,3
+http://www.wikidata.org/entity/Q34474,Александр Исаевич Солженицын,3
+http://www.wikidata.org/entity/Q41223,Борис Леонидович Пастернак,3
+http://www.wikidata.org/entity/Q35733,Велимир Хлебников,3
+http://www.wikidata.org/entity/Q15001,Александр Сергеевич Грибоедов,3
+http://www.wikidata.org/entity/Q18809,Анатолий Васильевич Луначарский,3
+http://www.wikidata.org/entity/Q47900,Нестор Иванович Махно,3
+http://www.wikidata.org/entity/Q61940,Зинаида Николаевна Гиппиус,3
+http://www.wikidata.org/entity/Q171242,Глеб Иванович Успенский,2
+http://www.wikidata.org/entity/Q313832,Константин Константинович,2
+http://www.wikidata.org/entity/Q326499,Владимир Иванович Даль,2
+http://www.wikidata.org/entity/Q326766,Муса Джалиль,2
+http://www.wikidata.org/entity/Q327015,Антон Антонович Дельвиг,2
+http://www.wikidata.org/entity/Q267137,"Кобылянская, Ольга Юлиановна",2
+http://www.wikidata.org/entity/Q182905,Георгий Валентинович Плеханов,2
+http://www.wikidata.org/entity/Q319896,Владимир Евгеньевич Жаботинский,2
+http://www.wikidata.org/entity/Q81445,Салават Юлаев,2
+http://www.wikidata.org/entity/Q254988,Аветик Исаакян,2
+http://www.wikidata.org/entity/Q255253,Мария Константиновна Башкирцева,2
+http://www.wikidata.org/entity/Q315885,Денис Иванович Фонвизин,2
+http://www.wikidata.org/entity/Q361318,Вячеслав Иванович Иванов,2
+http://www.wikidata.org/entity/Q315147,Андрей Платонович Платонов,2
+http://www.wikidata.org/entity/Q179558,Александра Михайловна Коллонтай,2
+http://www.wikidata.org/entity/Q371322,Михаил Сергеевич Грушевский,2
+http://www.wikidata.org/entity/Q362138,"Яннсен, Йохан Вольдемар",2
+http://www.wikidata.org/entity/Q319861,Александр Николаевич Бенуа,2
+http://www.wikidata.org/entity/Q192331,Николай Гаврилович Чернышевский,2
+http://www.wikidata.org/entity/Q271853,Николай Алексеевич Островский,2
+http://www.wikidata.org/entity/Q271934,Софья Андреевна Толстая,2
+http://www.wikidata.org/entity/Q380425,Ахад-ха-Ам,2
+http://www.wikidata.org/entity/Q372115,Антиох Дмитриевич Кантемир,2
+http://www.wikidata.org/entity/Q374362,Николай Платонович Огарёв,2
+http://www.wikidata.org/entity/Q195390,Александр Беркман,2
+http://www.wikidata.org/entity/Q358885,Максимилиан Александрович Волошин,2
+http://www.wikidata.org/entity/Q359047,Бернард Беренсон,2
+http://www.wikidata.org/entity/Q128832,Александр Александрович Бестужев,2
+http://www.wikidata.org/entity/Q379612,Акакий Ростомович Церетели,2
+http://www.wikidata.org/entity/Q297448,Антон Семёнович Макаренко,2
+http://www.wikidata.org/entity/Q342889,Адам Ежи Чарторыйский,2
+http://www.wikidata.org/entity/Q440996,Мариэтта Сергеевна Шагинян,2
+http://www.wikidata.org/entity/Q348001,Райнис,2
+http://www.wikidata.org/entity/Q311459,Николай Александрович Добролюбов,2
+http://www.wikidata.org/entity/Q434266,Пётр Демьянович Успенский,2
+http://www.wikidata.org/entity/Q350857,Христиан Георгиевич Раковский,2
+http://www.wikidata.org/entity/Q353637,Антон Хансен Таммсааре,2
+http://www.wikidata.org/entity/Q212632,Андрей Белый,2
+http://www.wikidata.org/entity/Q213997,Александр Грин,2
+http://www.wikidata.org/entity/Q211551,Николай Александрович Морозов,2
+http://www.wikidata.org/entity/Q152441,Януш Корчак,2
+http://www.wikidata.org/entity/Q304890,Абай Кунанбаев,2
+http://www.wikidata.org/entity/Q152738,Анастас Иванович Микоян,2
+http://www.wikidata.org/entity/Q1970722,Даниил Лукич Мордовцев,2
+http://www.wikidata.org/entity/Q215637,Надежда Константиновна Крупская,2
+http://www.wikidata.org/entity/Q313461,Хачатур Аветикович Абовян,2
+http://www.wikidata.org/entity/Q460352,Михаил Алексеевич Кузмин,2
+http://www.wikidata.org/entity/Q1995066,"Бакиханов, Аббас Кули Ага",2
+http://www.wikidata.org/entity/Q445845,"Жмиховская, Габриелла Нарциза",2
+http://www.wikidata.org/entity/Q1979936,Дживани,2
+http://www.wikidata.org/entity/Q4056993,Николай Яковлевич Агнивцев,2
+http://www.wikidata.org/entity/Q453447,Эль-Регистан,2
+http://www.wikidata.org/entity/Q1973605,Георгий Иванович Чулков,2
+http://www.wikidata.org/entity/Q241252,Алексей Фёдорович Львов,2
+http://www.wikidata.org/entity/Q4054196,"Абаев, Иван Мациевич",2
+http://www.wikidata.org/entity/Q1977210,Василий Иванович Немирович-Данченко,2
+http://www.wikidata.org/entity/Q4055616,Василий Петрович Авенариус,2
+http://www.wikidata.org/entity/Q2064962,Павел Иванович Мельников-Печерский,2
+http://www.wikidata.org/entity/Q2066250,"Кивикас, Альберт",2
+http://www.wikidata.org/entity/Q2066821,Алексей Сергеевич Суворин,2
+http://www.wikidata.org/entity/Q475004,Дмитрий Фёдорович Жилунович,2
+http://www.wikidata.org/entity/Q483709,Якуб Колас,2
+http://www.wikidata.org/entity/Q4130456,"Вяткин, Георгий Андреевич",2
+http://www.wikidata.org/entity/Q466595,"Сёдергран, Эдит",2
+http://www.wikidata.org/entity/Q2093961,"Янковский, Чеслав Карлович",2
+http://www.wikidata.org/entity/Q2078351,"Свенцицкий, Паулин",2
+http://www.wikidata.org/entity/Q4065729,Сергей Аркадьевич Андреевский,2
+http://www.wikidata.org/entity/Q2035134,Александр Сергеевич Неверов,2
+http://www.wikidata.org/entity/Q467630,Иван Сергеевич Аксаков,2
+http://www.wikidata.org/entity/Q4063219,"Алчевская, Христина Алексеевна",2
+http://www.wikidata.org/entity/Q497925,Александр Романович Беляев,2
+http://www.wikidata.org/entity/Q4058872,"Айкуни, Гурген Саркисович",2
+http://www.wikidata.org/entity/Q471443,Илья Арнольдович Ильф,2
+http://www.wikidata.org/entity/Q471664,Леонид Максимович Леонов,2
+http://www.wikidata.org/entity/Q2072175,Сергей Митрофанович Городецкий,2
+http://www.wikidata.org/entity/Q2072231,Джамбул Джабаев,2
+http://www.wikidata.org/entity/Q2042695,Павел Арсеньевич Грабовский,2
+http://www.wikidata.org/entity/Q2059452,Андрей Николаевич Муравьёв,2
+http://www.wikidata.org/entity/Q2361164,Константин Михайлович Станюкович,2
+http://www.wikidata.org/entity/Q471718,Константин Николаевич Батюшков,2
+http://www.wikidata.org/entity/Q521170,Владимир Алексеевич Гиляровский,2
+http://www.wikidata.org/entity/Q521410,Шаул Черниховский,2
+http://www.wikidata.org/entity/Q4203757,"Исбах, Александр Абрамович",2
+http://www.wikidata.org/entity/Q2075699,Иван Яковлевич Павловский,2
+http://www.wikidata.org/entity/Q4141439,Арсений Аркадьевич Голенищев-Кутузов,2
+http://www.wikidata.org/entity/Q2369851,"Таубин, Юлий Абрамович",2
+http://www.wikidata.org/entity/Q536372,"Пильняк, Борис Андреевич",2
+http://www.wikidata.org/entity/Q4151323,Эдуард Иванович Губер,2
+http://www.wikidata.org/entity/Q4072674,Александр Степанович Афанасьев-Чужбинский,2
+http://www.wikidata.org/entity/Q559531,"Перельман, Яков Исидорович",2
+http://www.wikidata.org/entity/Q553718,"Шмелёв, Иван Сергеевич",2
+http://www.wikidata.org/entity/Q554746,Дмитрий Васильевич Григорович,2
+http://www.wikidata.org/entity/Q4226775,Павел Алексеевич Козлов,2
+http://www.wikidata.org/entity/Q4233788,"Королив, Василий Константинович",2
+http://www.wikidata.org/entity/Q2414900,Игнацы Ходзько,2
+http://www.wikidata.org/entity/Q2378000,"Брешко-Брешковский, Николай Николаевич",2
+http://www.wikidata.org/entity/Q2378046,Юргис Казимирович Балтрушайтис,2
+http://www.wikidata.org/entity/Q570952,Антанас Баранаускас,2
+http://www.wikidata.org/entity/Q597298,"Одынец, Антоний Эдвард",2
+http://www.wikidata.org/entity/Q597727,"Мальчевский, Антоний",2
+http://www.wikidata.org/entity/Q4086689,Виктор Викторович Билибин,2
+http://www.wikidata.org/entity/Q2421158,Марко Вовчок,2
+http://www.wikidata.org/entity/Q2425322,Степан Гаврилович Скиталец,2
+http://www.wikidata.org/entity/Q582704,"Рыдель, Люцьян",2
+http://www.wikidata.org/entity/Q4080131,"Башкин, Василий Васильевич",2
+http://www.wikidata.org/entity/Q2503538,"Абашели, Александр Виссарионович",2
+http://www.wikidata.org/entity/Q2506401,"Махайский, Ян-Вацлав Константинович",2
+http://www.wikidata.org/entity/Q2494143,Владимир Кириллович Винниченко,2
+http://www.wikidata.org/entity/Q4237515,Паулина Петронела Кракув,2
+http://www.wikidata.org/entity/Q4168392,"Дрожжин, Спиридон Дмитриевич",2
+http://www.wikidata.org/entity/Q665344,Дмитрий Владимирович Веневитинов,2
+http://www.wikidata.org/entity/Q2583170,Ахмед Джавад,2
+http://www.wikidata.org/entity/Q645491,Евгений Павлович Гребёнка,2
+http://www.wikidata.org/entity/Q2500903,"Горецкий, Максим Иванович",2
+http://www.wikidata.org/entity/Q2468579,Михаил Ларионович Михайлов,2
+http://www.wikidata.org/entity/Q669733,Шарль Раппопорт,2
+http://www.wikidata.org/entity/Q677282,"Абгарович, Каетан",2
+http://www.wikidata.org/entity/Q2528539,"Решетников, Фёдор Михайлович",2
+http://www.wikidata.org/entity/Q2608229,Иван Иванович Хемницер,2
+http://www.wikidata.org/entity/Q2610362,Раффи,2
+http://www.wikidata.org/entity/Q2590303,Янка Лучина,2
+http://www.wikidata.org/entity/Q650909,Евгений Николаевич Чириков,2
+http://www.wikidata.org/entity/Q2621545,Александр Иванович Полежаев,2
+http://www.wikidata.org/entity/Q4175114,"Елпатьевский, Сергей Яковлевич",2
+http://www.wikidata.org/entity/Q4177853,Юлия Валериановна Жадовская,2
+http://www.wikidata.org/entity/Q714397,Николай Алексеевич Клюев,2
+http://www.wikidata.org/entity/Q714739,Евгений Петрович Петров,2
+http://www.wikidata.org/entity/Q715195,Всеволод Михайлович Волин,2
+http://www.wikidata.org/entity/Q707569,Игорь Северянин,2
+http://www.wikidata.org/entity/Q2563175,Фома Падура,2
+http://www.wikidata.org/entity/Q2564168,Иван Иванович Дмитриев,2
+http://www.wikidata.org/entity/Q2627596,Николай Алексеевич Полевой,2
+http://www.wikidata.org/entity/Q725191,"Якобсон, Карл Роберт",2
+http://www.wikidata.org/entity/Q4250337,Иван Афанасьевич Кущевский,2
+http://www.wikidata.org/entity/Q2622325,Константин Дмитриевич Ушинский,2
+http://www.wikidata.org/entity/Q713443,"Ан-ский, Семён Акимович",2
+http://www.wikidata.org/entity/Q722164,Сергей Михайлович Третьяков,2
+http://www.wikidata.org/entity/Q722730,Константин Сергеевич Аксаков,2
+http://www.wikidata.org/entity/Q720198,Владимир Александрович Соллогуб,2
+http://www.wikidata.org/entity/Q4107063,Зинаида Афанасьевна Венгерова,2
+http://www.wikidata.org/entity/Q4107294,"Венюков, Михаил Иванович",2
+http://www.wikidata.org/entity/Q2664172,"Свечина, Софья Петровна",2
+http://www.wikidata.org/entity/Q2623476,"Чечот, Ян",2
+http://www.wikidata.org/entity/Q2642033,Александр Самойлович Элиасберг,2
+http://www.wikidata.org/entity/Q4112079,"Виртанен, Ялмари Эрикович",2
+http://www.wikidata.org/entity/Q2717801,Лев Александрович Мей,2
+http://www.wikidata.org/entity/Q790333,Аветис Агаронян,2
+http://www.wikidata.org/entity/Q2655647,Ваан Терьян,2
+http://www.wikidata.org/entity/Q2659515,Николай Андреевич Маркевич,2
+http://www.wikidata.org/entity/Q2891763,Стефан Витвицкий,2
+http://www.wikidata.org/entity/Q973270,"Доленга-Мостович, Тадеуш",2
+http://www.wikidata.org/entity/Q2996685,Франтишек Олехнович,2
+http://www.wikidata.org/entity/Q2997661,Гусейн Джавид,2
+http://www.wikidata.org/entity/Q962710,"Пинскер, Леон",2
+http://www.wikidata.org/entity/Q2791424,"Петкевич, Антони Антонович",2
+http://www.wikidata.org/entity/Q981171,Виталий Валентинович Бианки,2
+http://www.wikidata.org/entity/Q968274,Иван Иванович Козлов,2
+http://www.wikidata.org/entity/Q2992931,Иван Иванович Панаев,2
+http://www.wikidata.org/entity/Q2911049,Борис Васильевич Варнеке,2
+http://www.wikidata.org/entity/Q4283723,Константин Петрович Масальский,2
+http://www.wikidata.org/entity/Q4505332,Дмитрий Николаевич Цертелев,2
+http://www.wikidata.org/entity/Q1029052,Франс Кюльпе,2
+http://www.wikidata.org/entity/Q4293952,Дмитрий Дмитриевич Минаев,2
+http://www.wikidata.org/entity/Q2941038,"Бродзинский, Казимир",2
+http://www.wikidata.org/entity/Q2965851,Q2965851,2
+http://www.wikidata.org/entity/Q4404112,"Савич, Франц Андреевич",2
+http://www.wikidata.org/entity/Q983167,Михаил Станиславович Чайковский,2
+http://www.wikidata.org/entity/Q2995798,"Ластовский, Вацлав Устинович",2
+http://www.wikidata.org/entity/Q3308432,Микаэл Налбандян,2
+http://www.wikidata.org/entity/Q4522683,Александр Константинович Шеллер,2
+http://www.wikidata.org/entity/Q1346366,Осип Максимович Бодянский,2
+http://www.wikidata.org/entity/Q1071841,Мирра Александровна Лохвицкая,2
+http://www.wikidata.org/entity/Q1228391,"Мещеряков, Николай Леонидович",2
+http://www.wikidata.org/entity/Q1282960,Владимир Дмитриевич Бонч-Бруевич,2
+http://www.wikidata.org/entity/Q4424727,"Смирнов, Николай Григорьевич",2
+http://www.wikidata.org/entity/Q4519851,"Шамбинаго, Сергей Константинович",2
+http://www.wikidata.org/entity/Q4524951,"Шкваркин, Василий Васильевич",2
+http://www.wikidata.org/entity/Q4442904,Любовь Никитична Столица,2
+http://www.wikidata.org/entity/Q4443146,Алексей Петрович Стороженко,2
+http://www.wikidata.org/entity/Q3187274,Q3187274,2
+http://www.wikidata.org/entity/Q3202584,Влас Михайлович Дорошевич,2
+http://www.wikidata.org/entity/Q3442373,Вера Петровна Желиховская,2
+http://www.wikidata.org/entity/Q4334759,Иннокентий Васильевич Омулевский,2
+http://www.wikidata.org/entity/Q1375599,"Пидмогильный, Валерьян Петрович",2
+http://www.wikidata.org/entity/Q1376036,Лев Осипович Гордон,2
+http://www.wikidata.org/entity/Q1376466,Йонас Билюнас,2
+http://www.wikidata.org/entity/Q1377569,Григорий Николаевич Потанин,2
+http://www.wikidata.org/entity/Q4334206,"Ольхин, Александр Александрович",2
+http://www.wikidata.org/entity/Q4439957,Михаил Петрович Старицкий,2
+http://www.wikidata.org/entity/Q4535566,Семён Соломонович Юшкевич,2
+http://www.wikidata.org/entity/Q4329176,Константин Михайлович Оберучев,2
+http://www.wikidata.org/entity/Q4329536,"Оболенский, Леонид Егорович",2
+http://www.wikidata.org/entity/Q4338397,Михаил Андреевич Осоргин,2
+http://www.wikidata.org/entity/Q4828436,Аветис Назарбекян,2
+http://www.wikidata.org/entity/Q4892765,Адам Шиманский,2
+http://www.wikidata.org/entity/Q3646436,"Демирчян, Дереник Карапетович",2
+http://www.wikidata.org/entity/Q4720257,Александр Цатурян,2
+http://www.wikidata.org/entity/Q1873662,"Семеньский, Люциан",2
+http://www.wikidata.org/entity/Q1894116,Михаил Балуцкий,2
+http://www.wikidata.org/entity/Q4465351,Фёдор Антонович Туманский,2
+http://www.wikidata.org/entity/Q1684135,Пётр Васильевич Орешин,2
+http://www.wikidata.org/entity/Q11739963,Клеменс Шанявский,2
+http://www.wikidata.org/entity/Q4369658,Пётр Николаевич Полевой,2
+http://www.wikidata.org/entity/Q4347504,"Пачовский, Василий Николаевич",2
+http://www.wikidata.org/entity/Q1776611,"Мушфиг, Микаил",2
+http://www.wikidata.org/entity/Q1784989,Козьма Прутков,2
+http://www.wikidata.org/entity/Q1965592,"Сергеев-Ценский, Сергей Николаевич",2
+http://www.wikidata.org/entity/Q1965701,Владимир Григорьевич Бенедиктов,2
+http://www.wikidata.org/entity/Q3888681,"Петренко, Михаил Николаевич",2
+http://www.wikidata.org/entity/Q3804499,"Яхович, Станислав",2
+http://www.wikidata.org/entity/Q12109911,"Кириленко, Иван Ульянович",2
+http://www.wikidata.org/entity/Q12085720,"Буревой, Кость Степанович",2
+http://www.wikidata.org/entity/Q1958772,Керопэ Патканян,2
+http://www.wikidata.org/entity/Q1819036,Леонард Совинский,2
+http://www.wikidata.org/entity/Q11817405,Q11817405,2
+http://www.wikidata.org/entity/Q11903056,"Саволайнен, Юрьё",2
+http://www.wikidata.org/entity/Q9312701,"Зморский, Роман",2
+http://www.wikidata.org/entity/Q3920093,Ядвигин Ш.,2
+http://www.wikidata.org/entity/Q3920282,"Желиговский, Эдуард",2
+http://www.wikidata.org/entity/Q1962542,Николай Фёдорович Щербина,2
+http://www.wikidata.org/entity/Q7544305,Шах-Азиз Смбат Симонович,2
+http://www.wikidata.org/entity/Q1932393,"Ханыков, Николай Владимирович",2
+http://www.wikidata.org/entity/Q1964476,Николай Васильевич Берг,2
+http://www.wikidata.org/entity/Q12077193,"Айзеншток, Иеремия Яковлевич",2
+http://www.wikidata.org/entity/Q16701254,Лев Израилевич Каценельсон,2
+http://www.wikidata.org/entity/Q12172791,Яков Иванович Щоголев,2
+http://www.wikidata.org/entity/Q10970922,Иоаннес Иоаннисян,2
+http://www.wikidata.org/entity/Q10977097,Баграм Алазан,2
+http://www.wikidata.org/entity/Q12349586,Иван Сергеевич Наумов,2
+http://www.wikidata.org/entity/Q15453784,Виктор Викторович Гофман,2
+http://www.wikidata.org/entity/Q15633182,Надежда Александровна Лухманова,2
+http://www.wikidata.org/entity/Q24352843,"Лукашевич, Клавдия Владимировна",2
+http://www.wikidata.org/entity/Q19906294,Q19906294,2
+http://www.wikidata.org/entity/Q22254513,Q22254513,2
+http://www.wikidata.org/entity/Q18510086,Василий Иванович Красов,2
+http://www.wikidata.org/entity/Q18533524,Иван Петрович Клюшников,2
+http://www.wikidata.org/entity/Q15987168,Борис Леонидович Седерхольм,2
+http://www.wikidata.org/entity/Q16371362,Аршалуйс Аршаруни,2
+http://www.wikidata.org/entity/Q24334,Микола Хвылевой,2
+http://www.wikidata.org/entity/Q20509077,Левон Манвелян,2
+http://www.wikidata.org/entity/Q20509375,Геворк Додохян,2
+http://www.wikidata.org/entity/Q20675017,Филипп Степанович Шкулёв,2
+http://www.wikidata.org/entity/Q36591,Владимир Владимирович Набоков,2
+http://www.wikidata.org/entity/Q44695,Константин Михайлович Симонов,2
+http://www.wikidata.org/entity/Q49509,Кондратий Фёдорович Рылеев,2
+http://www.wikidata.org/entity/Q60928,Владимир Всеволодович Мономах,2
+http://www.wikidata.org/entity/Q175694,Иван Петрович Пнин,1
+http://www.wikidata.org/entity/Q72677,Сергей Александрович Бутурлин,1
+http://www.wikidata.org/entity/Q75555,Сергей Михайлович Соловьёв,1
+http://www.wikidata.org/entity/Q75612,Исаак Башевис-Зингер,1
+http://www.wikidata.org/entity/Q76865,Станислав Бжозовский,1
+http://www.wikidata.org/entity/Q367248,Иван Станиславович Блиох,1
+http://www.wikidata.org/entity/Q317397,Узеир Гаджибеков,1
+http://www.wikidata.org/entity/Q180545,Фёдор Николаевич Глинка,1
+http://www.wikidata.org/entity/Q180636,Тигран Вартанович Петросян,1
+http://www.wikidata.org/entity/Q249879,"Гринченко, Мария Николаевна",1
+http://www.wikidata.org/entity/Q362828,Александр Трифонович Твардовский,1
+http://www.wikidata.org/entity/Q268111,Евгений Львович Шварц,1
+http://www.wikidata.org/entity/Q181573,Фазиль Абдулович Искандер,1
+http://www.wikidata.org/entity/Q182156,Павел Петрович Бажов,1
+http://www.wikidata.org/entity/Q320653,Вячеслав Яковлевич Шишков,1
+http://www.wikidata.org/entity/Q320935,Нестор Летописец,1
+http://www.wikidata.org/entity/Q177288,"Парнок, София Яковлевна",1
+http://www.wikidata.org/entity/Q262637,"Халупка, Само",1
+http://www.wikidata.org/entity/Q368455,Юрий Николаевич Тынянов,1
+http://www.wikidata.org/entity/Q368812,Константин Георгиевич Паустовский,1
+http://www.wikidata.org/entity/Q368956,Коста Хетагуров,1
+http://www.wikidata.org/entity/Q318470,"Арсеньев, Владимир Клавдиевич",1
+http://www.wikidata.org/entity/Q360471,Владимир Константинович Буковский,1
+http://www.wikidata.org/entity/Q360507,Михаил Михайлович Зощенко,1
+http://www.wikidata.org/entity/Q254998,Силуан Афонский,1
+http://www.wikidata.org/entity/Q364226,Козьма Сергеевич Петров-Водкин,1
+http://www.wikidata.org/entity/Q270336,Надежда Андреевна Дурова,1
+http://www.wikidata.org/entity/Q270460,Ольга Владимировна Розанова,1
+http://www.wikidata.org/entity/Q86864,Юзеф Косцельский,1
+http://www.wikidata.org/entity/Q316086,Василий Макарович Шукшин,1
+http://www.wikidata.org/entity/Q361311,"Расулзаде, Мамед Эмин",1
+http://www.wikidata.org/entity/Q361493,Михаил Прокофьевич Герасимов,1
+http://www.wikidata.org/entity/Q370069,Юзеф Выбицкий,1
+http://www.wikidata.org/entity/Q370795,Г. Лелевич,1
+http://www.wikidata.org/entity/Q362009,"Кибальчич, Виктор Львович",1
+http://www.wikidata.org/entity/Q108825,Фёдор Фёдорович Фидлер,1
+http://www.wikidata.org/entity/Q112081,Вильгельм Франц Габсбург-Лотарингский,1
+http://www.wikidata.org/entity/Q112985,"Савин, Виктор Алексеевич",1
+http://www.wikidata.org/entity/Q113480,Владимир Германович Богораз,1
+http://www.wikidata.org/entity/Q335006,Сергей Иванович Танеев,1
+http://www.wikidata.org/entity/Q256354,"Инбер, Вера Михайловна",1
+http://www.wikidata.org/entity/Q388472,Юзеф Павликовский,1
+http://www.wikidata.org/entity/Q399986,"Гордон, Аарон Давид",1
+http://www.wikidata.org/entity/Q401773,Ахмед-бек Агаев,1
+http://www.wikidata.org/entity/Q381859,"Савинков, Борис Викторович",1
+http://www.wikidata.org/entity/Q120664,Николай Яковлевич Данилевский,1
+http://www.wikidata.org/entity/Q271903,"Эберхард, Изабель",1
+http://www.wikidata.org/entity/Q380439,Шолом Аш,1
+http://www.wikidata.org/entity/Q208116,Сергей Владимирович Михалков,1
+http://www.wikidata.org/entity/Q373117,"Шлёцер, Борис де",1
+http://www.wikidata.org/entity/Q376410,"Кицберг, Аугуст",1
+http://www.wikidata.org/entity/Q116309,Николай Яковлевич Марр,1
+http://www.wikidata.org/entity/Q126783,"Лахути, Абулькасим Ахмедзаде",1
+http://www.wikidata.org/entity/Q127017,Василий Васильевич Верещагин,1
+http://www.wikidata.org/entity/Q274324,"Лущевская, Ядвига",1
+http://www.wikidata.org/entity/Q331425,Агатон Гиллер,1
+http://www.wikidata.org/entity/Q274342,Татьяна Никитична Толстая,1
+http://www.wikidata.org/entity/Q338516,Николай Александрович Лейкин,1
+http://www.wikidata.org/entity/Q202537,Аркадий Петрович Гайдар,1
+http://www.wikidata.org/entity/Q377725,Пётр Бернгардович Струве,1
+http://www.wikidata.org/entity/Q378309,Степан Зорян,1
+http://www.wikidata.org/entity/Q378753,Дмитрий Иванович Писарев,1
+http://www.wikidata.org/entity/Q283654,Мария (Скобцова),1
+http://www.wikidata.org/entity/Q333873,Валентин Петрович Катаев,1
+http://www.wikidata.org/entity/Q348899,Феофан Прокопович,1
+http://www.wikidata.org/entity/Q382145,Владимир Александрович Крючков,1
+http://www.wikidata.org/entity/Q385790,Африкан Александрович Шпир,1
+http://www.wikidata.org/entity/Q127688,"Снелльман, Йохан Вильгельм",1
+http://www.wikidata.org/entity/Q380000,"Олеша, Юрий Карлович",1
+http://www.wikidata.org/entity/Q192885,Виссарион Григорьевич Белинский,1
+http://www.wikidata.org/entity/Q193674,Анри Труайя,1
+http://www.wikidata.org/entity/Q343154,Григорий Николаевич Теплов,1
+http://www.wikidata.org/entity/Q290902,Войцех Богуславский,1
+http://www.wikidata.org/entity/Q347685,Корней Иванович Чуковский,1
+http://www.wikidata.org/entity/Q208546,Цезарь Антонович Кюи,1
+http://www.wikidata.org/entity/Q311033,Николай Степанович Гумилёв,1
+http://www.wikidata.org/entity/Q297758,"Саррот, Натали",1
+http://www.wikidata.org/entity/Q437809,"Друянов, Алтер",1
+http://www.wikidata.org/entity/Q217470,Александр Николаевич Радищев,1
+http://www.wikidata.org/entity/Q217771,"Гурджиев, Георгий Иванович",1
+http://www.wikidata.org/entity/Q426811,Газарос Агаян,1
+http://www.wikidata.org/entity/Q429915,Александр Петрович Сумароков,1
+http://www.wikidata.org/entity/Q430883,Сергей Геннадиевич Нечаев,1
+http://www.wikidata.org/entity/Q312467,Виктор Борисович Шкловский,1
+http://www.wikidata.org/entity/Q144519,Дмитрий Николаевич Садовников,1
+http://www.wikidata.org/entity/Q302135,Аарон Мордехай Хайман,1
+http://www.wikidata.org/entity/Q354394,Дмитрий Петрович Святополк-Мирский,1
+http://www.wikidata.org/entity/Q354505,Яков Борисович Княжнин,1
+http://www.wikidata.org/entity/Q359568,Владимир Афанасьевич Обручев,1
+http://www.wikidata.org/entity/Q359694,"Мойхер-Сфорим, Менделе",1
+http://www.wikidata.org/entity/Q156201,Роман Осипович Якобсон,1
+http://www.wikidata.org/entity/Q213734,Генрих Фогелер,1
+http://www.wikidata.org/entity/Q208993,Николай Константинович Рерих,1
+http://www.wikidata.org/entity/Q234765,Надежда Яковлевна Мандельштам,1
+http://www.wikidata.org/entity/Q234980,"Засулич, Вера Ивановна",1
+http://www.wikidata.org/entity/Q235611,Екатерина Романовна Дашкова,1
+http://www.wikidata.org/entity/Q434926,Анатолий Наумович Рыбаков,1
+http://www.wikidata.org/entity/Q435569,Всеволод Вячеславович Иванов,1
+http://www.wikidata.org/entity/Q446743,Юлиан Клачко,1
+http://www.wikidata.org/entity/Q446823,Каролина Карловна Павлова,1
+http://www.wikidata.org/entity/Q435584,Самуил Яковлевич Маршак,1
+http://www.wikidata.org/entity/Q435766,Фёдор Петрович Литке,1
+http://www.wikidata.org/entity/Q435770,Юлий Маркович Даниэль,1
+http://www.wikidata.org/entity/Q1968651,Григорий Петрович Данилевский,1
+http://www.wikidata.org/entity/Q1970429,Владимир Шилейко,1
+http://www.wikidata.org/entity/Q1970869,Борис Степанович Житков,1
+http://www.wikidata.org/entity/Q214557,Юлиус фон Экардт,1
+http://www.wikidata.org/entity/Q220816,Варлам Тихонович Шаламов,1
+http://www.wikidata.org/entity/Q458209,"Жадан, Сергей Викторович",1
+http://www.wikidata.org/entity/Q458567,Ольга Дмитриевна Форш,1
+http://www.wikidata.org/entity/Q1989465,Зинаида Александровна Волконская,1
+http://www.wikidata.org/entity/Q1990440,Ваан Тотовенц,1
+http://www.wikidata.org/entity/Q460052,Михаил Тариэлович Лорис-Меликов,1
+http://www.wikidata.org/entity/Q460329,Николай Асеев,1
+http://www.wikidata.org/entity/Q1994930,"Ухтомский, Эспер Эсперович",1
+http://www.wikidata.org/entity/Q1996140,Левко Григорьевич Лукьяненко,1
+http://www.wikidata.org/entity/Q442658,Елена Генриховна Гуро,1
+http://www.wikidata.org/entity/Q443970,"Пинский, Давид",1
+http://www.wikidata.org/entity/Q1979331,"Муратов, Павел Павлович",1
+http://www.wikidata.org/entity/Q313618,Отто Вильгельмович Куусинен,1
+http://www.wikidata.org/entity/Q4056257,"Автократов, Николай Васильевич",1
+http://www.wikidata.org/entity/Q4056506,"Агабабян, Ашот Липаритович",1
+http://www.wikidata.org/entity/Q4056570,"Агаков, Леонид Яковлевич",1
+http://www.wikidata.org/entity/Q4056697,"Агатов, Владимир Гариевич",1
+http://www.wikidata.org/entity/Q4056733,Валериан Константинович Агафонов,1
+http://www.wikidata.org/entity/Q4057034,Абрам Давидович Аграновский,1
+http://www.wikidata.org/entity/Q4057201,Ада Владимирова,1
+http://www.wikidata.org/entity/Q4057276,"Адамиа, Алио Константинович",1
+http://www.wikidata.org/entity/Q454630,Владимир Николаевич Войнович,1
+http://www.wikidata.org/entity/Q454761,"Суходольский, Райнольд",1
+http://www.wikidata.org/entity/Q4054424,Наринэ Абгарян,1
+http://www.wikidata.org/entity/Q4054511,"Абдукадыров, Калмакан Абдукадырович",1
+http://www.wikidata.org/entity/Q4054512,"Абдукаимов, Узакбай",1
+http://www.wikidata.org/entity/Q4054571,"Абдуллаев, Сайгид Нухкадиевич",1
+http://www.wikidata.org/entity/Q4054684,Александр Абелян,1
+http://www.wikidata.org/entity/Q4054770,"Абишев, Альжаппар",1
+http://www.wikidata.org/entity/Q4054957,Яков Васильевич Абрамов,1
+http://www.wikidata.org/entity/Q1975105,Николай Альбертович Кун,1
+http://www.wikidata.org/entity/Q1975502,Паруйр Айрикян,1
+http://www.wikidata.org/entity/Q2005194,"Грин, Соня",1
+http://www.wikidata.org/entity/Q3955946,"Толстой, Сергей Львович",1
+http://www.wikidata.org/entity/Q4011670,"Заславский, Виктор Львович",1
+http://www.wikidata.org/entity/Q4053828,А. Ветлугин,1
+http://www.wikidata.org/entity/Q4054200,"Абаева, Людмила Николаевна",1
+http://www.wikidata.org/entity/Q4054201,"Абаев, Шамиль Бекмурзаевич",1
+http://www.wikidata.org/entity/Q4054207,Константин Константинович Абаза,1
+http://www.wikidata.org/entity/Q4054347,"Абатуров, Константин Иванович",1
+http://www.wikidata.org/entity/Q248977,"Панаева, Авдотья Яковлевна",1
+http://www.wikidata.org/entity/Q4114057,Василий Иванович Водовозов,1
+http://www.wikidata.org/entity/Q4115473,"Хармая, Сайма",1
+http://www.wikidata.org/entity/Q4196352,Фёдор Фёдорович Иванов,1
+http://www.wikidata.org/entity/Q4196878,Николай Дмитриевич Иванчин-Писарев,1
+http://www.wikidata.org/entity/Q4197323,Андрей Викторович Игельстром,1
+http://www.wikidata.org/entity/Q4197355,Генрих Игитян,1
+http://www.wikidata.org/entity/Q4197528,Иван Васильевич Игнатьев,1
+http://www.wikidata.org/entity/Q4198598,Владимир Васильевич Измайлов,1
+http://www.wikidata.org/entity/Q4198599,Александр Ефимович Измайлов,1
+http://www.wikidata.org/entity/Q1976707,"Лившиц, Бенедикт Константинович",1
+http://www.wikidata.org/entity/Q1977392,Аракел Бабаханян,1
+http://www.wikidata.org/entity/Q165854,Лев Борисович Каменев,1
+http://www.wikidata.org/entity/Q166563,"Максимов, Владимир Емельянович",1
+http://www.wikidata.org/entity/Q168441,Ирина Львовна Немировская,1
+http://www.wikidata.org/entity/Q447659,Анастасия Алексеевна Вербицкая,1
+http://www.wikidata.org/entity/Q1980285,Гурген Маари,1
+http://www.wikidata.org/entity/Q1980303,Серо Ханзадян,1
+http://www.wikidata.org/entity/Q1980501,Михаил Александрович Зенкевич,1
+http://www.wikidata.org/entity/Q1981434,Сулейман Сани Ахундов,1
+http://www.wikidata.org/entity/Q2029416,Валериан Иванович Гаприндашвили,1
+http://www.wikidata.org/entity/Q4054976,Николай Яковлевич Абрамович,1
+http://www.wikidata.org/entity/Q4055527,Екатерина Алексеевна Авдеева,1
+http://www.wikidata.org/entity/Q4055905,Лидия Алексеевна Авилова,1
+http://www.wikidata.org/entity/Q463723,Николай Фёдорович Фёдоров,1
+http://www.wikidata.org/entity/Q464192,Владимир Васильевич Стасов,1
+http://www.wikidata.org/entity/Q1984548,Григорий Александрович Мачтет,1
+http://www.wikidata.org/entity/Q1985740,Шерам,1
+http://www.wikidata.org/entity/Q455246,Иван Петрович Котляревский,1
+http://www.wikidata.org/entity/Q4195637,Иван Савин,1
+http://www.wikidata.org/entity/Q4195713,"Иваненко, Оксана Дмитриевна",1
+http://www.wikidata.org/entity/Q4195970,"Иванов, Анатолий Степанович",1
+http://www.wikidata.org/entity/Q4196015,"Иванов, Валентин Дмитриевич",1
+http://www.wikidata.org/entity/Q4196085,"Иванов, Всеволод Никанорович",1
+http://www.wikidata.org/entity/Q4125985,"Ворошилов, Александр",1
+http://www.wikidata.org/entity/Q4129562,"Высоцкий, Влодзимеж",1
+http://www.wikidata.org/entity/Q4061430,"Александровский, Василий Дмитриевич",1
+http://www.wikidata.org/entity/Q4061436,"Александровский, Сергей Анатольевич",1
+http://www.wikidata.org/entity/Q4061627,"Алексеев, Василий Алексеевич",1
+http://www.wikidata.org/entity/Q4062229,Али Назим,1
+http://www.wikidata.org/entity/Q4062730,Борис Николаевич Алмазов,1
+http://www.wikidata.org/entity/Q245331,Q245331,1
+http://www.wikidata.org/entity/Q245369,"Еж, Теодор Томаш",1
+http://www.wikidata.org/entity/Q2063073,Мамед Саид Ордубади,1
+http://www.wikidata.org/entity/Q2063750,"Вильконская, Паулина",1
+http://www.wikidata.org/entity/Q464207,Эдуард Вильде,1
+http://www.wikidata.org/entity/Q4123096,"Волженин, Владимир Моисеевич",1
+http://www.wikidata.org/entity/Q4123262,Алексей Гаврилович Волков,1
+http://www.wikidata.org/entity/Q4124438,"Волынский, Аким Львович",1
+http://www.wikidata.org/entity/Q4124496,"Волькенштейн, Владимир Михайлович",1
+http://www.wikidata.org/entity/Q4124717,Надежда Давыдовна Вольпин,1
+http://www.wikidata.org/entity/Q4124908,Василий Александрович Вонлярлярский,1
+http://www.wikidata.org/entity/Q4130217,Павел Петрович Вяземский,1
+http://www.wikidata.org/entity/Q4131363,Гавриил Петрович Гагарин,1
+http://www.wikidata.org/entity/Q4131371,Павел Гаврилович Гагарин,1
+http://www.wikidata.org/entity/Q4131613,Виктор Павлович Гаевский,1
+http://www.wikidata.org/entity/Q2088812,Николай Кондратьевич Вороной,1
+http://www.wikidata.org/entity/Q2091657,Фёдор Александрович Эмин,1
+http://www.wikidata.org/entity/Q2093971,"Ельский, Александр Карлович",1
+http://www.wikidata.org/entity/Q2094593,Пётр Никитич Ткачёв,1
+http://www.wikidata.org/entity/Q2026168,"Озеров, Владислав Александрович",1
+http://www.wikidata.org/entity/Q2026936,Владимир Федосеевич Раевский,1
+http://www.wikidata.org/entity/Q2027651,Вера Игнатьевна Гедройц,1
+http://www.wikidata.org/entity/Q2027832,Панас Мирный,1
+http://www.wikidata.org/entity/Q4199074,"Икосов, Павел Павлович",1
+http://www.wikidata.org/entity/Q4199096,"Икскуль, Юлия Шарлотта",1
+http://www.wikidata.org/entity/Q4199100,"Икскуль фон Гильденбанд, Варвара Ивановна",1
+http://www.wikidata.org/entity/Q4199350,Алексей Демьянович Илличевский,1
+http://www.wikidata.org/entity/Q4200572,"Инге, Юрий Алексеевич",1
+http://www.wikidata.org/entity/Q4202194,"Инфантьев, Порфирий Павлович",1
+http://www.wikidata.org/entity/Q4064430,"Аммосов, Александр Николаевич",1
+http://www.wikidata.org/entity/Q4064878,Василий Григорьевич Анастасевич,1
+http://www.wikidata.org/entity/Q4065020,Анвар Абиджан,1
+http://www.wikidata.org/entity/Q4065721,Иван Ефимович Андреевский,1
+http://www.wikidata.org/entity/Q4066102,Леонид Иванович Андрусон,1
+http://www.wikidata.org/entity/Q2031983,Василий Петрович Бобинский,1
+http://www.wikidata.org/entity/Q2034361,Михась Климкович,1
+http://www.wikidata.org/entity/Q4131976,Дмитрий Александрович Гайдук,1
+http://www.wikidata.org/entity/Q4132223,"Галан, Ярослав Александрович",1
+http://www.wikidata.org/entity/Q4132234,"Мотовилов, Николай Александрович",1
+http://www.wikidata.org/entity/Q4132469,Галина Галина,1
+http://www.wikidata.org/entity/Q4132885,Михаил Петрович Гальперин,1
+http://www.wikidata.org/entity/Q4059788,"Айлисли, Акрам",1
+http://www.wikidata.org/entity/Q4060004,Иван Аксёнов,1
+http://www.wikidata.org/entity/Q4060435,"Аладьин, Егор Васильевич",1
+http://www.wikidata.org/entity/Q4061100,"Александров, Владимир Степанович",1
+http://www.wikidata.org/entity/Q466902,"Крюков, Фёдор Дмитриевич",1
+http://www.wikidata.org/entity/Q4062979,"Алтаузен, Джек",1
+http://www.wikidata.org/entity/Q4063217,Христина Даниловна Алчевская,1
+http://www.wikidata.org/entity/Q4063438,Арсений Альвинг,1
+http://www.wikidata.org/entity/Q498813,Николай Иванович Ашмарин,1
+http://www.wikidata.org/entity/Q4208730,"Кайсаров, Пётр Сергеевич",1
+http://www.wikidata.org/entity/Q4208735,"Кайсаров, Андрей Сергеевич",1
+http://www.wikidata.org/entity/Q4209161,"Калашников, Иван Тимофеевич",1
+http://www.wikidata.org/entity/Q4133288,Пётр Готфридович Ганзен,1
+http://www.wikidata.org/entity/Q4134006,Евгений Михайлович Гаршин,1
+http://www.wikidata.org/entity/Q4134864,Николай Эдуардович Гейнце,1
+http://www.wikidata.org/entity/Q4135003,"Гелескул, Анатолий Михайлович",1
+http://www.wikidata.org/entity/Q4057977,Сергей Александрович Адрианов,1
+http://www.wikidata.org/entity/Q2068561,Анатолий Климович Вахнянин,1
+http://www.wikidata.org/entity/Q2069377,"Дорофеев, Захар Фёдорович",1
+http://www.wikidata.org/entity/Q2071068,"Эллан-Блакитный, Василий Михайлович",1
+http://www.wikidata.org/entity/Q2072018,Мухаммед Хади,1
+http://www.wikidata.org/entity/Q2072051,"Рустамзаде, Сулейман",1
+http://www.wikidata.org/entity/Q4214362,"Каратыгин, Евгений Сергеевич",1
+http://www.wikidata.org/entity/Q4215566,"Карнович, Евгений Петрович",1
+http://www.wikidata.org/entity/Q4215616,Поэль Меерович Карп,1
+http://www.wikidata.org/entity/Q4216371,"Карчевский, Вацлав",1
+http://www.wikidata.org/entity/Q468611,Q468611,1
+http://www.wikidata.org/entity/Q470371,Алексей Феофилактович Писемский,1
+http://www.wikidata.org/entity/Q2097755,Пётр Иванович Шаликов,1
+http://www.wikidata.org/entity/Q2143362,Алексей Силыч Новиков-Прибой,1
+http://www.wikidata.org/entity/Q2150090,"Тарашкевич, Бронислав Адамович",1
+http://www.wikidata.org/entity/Q4210838,Гавриил Петрович Каменев,1
+http://www.wikidata.org/entity/Q4212888,"Капиев, Эффенди Мансурович",1
+http://www.wikidata.org/entity/Q4213740,"Карадагский, Гасаналиага-хан",1
+http://www.wikidata.org/entity/Q2042045,Алексей Антипович Потехин,1
+http://www.wikidata.org/entity/Q2047262,Алиага Вахид,1
+http://www.wikidata.org/entity/Q467741,Вениамин Александрович Каверин,1
+http://www.wikidata.org/entity/Q468067,Владимир Фёдорович Одоевский,1
+http://www.wikidata.org/entity/Q2329380,Александр Скарлатович Стурдза,1
+http://www.wikidata.org/entity/Q2336160,"Охорович, Юлиан",1
+http://www.wikidata.org/entity/Q487665,Анатолий Борисович Мариенгоф,1
+http://www.wikidata.org/entity/Q487824,Анатолий Корнелиевич Виноградов,1
+http://www.wikidata.org/entity/Q2361998,Иван Семёнович Барков,1
+http://www.wikidata.org/entity/Q2362037,"Карпенко-Карый, Иван Карпович",1
+http://www.wikidata.org/entity/Q2271944,Серафим Серафимович Шашков,1
+http://www.wikidata.org/entity/Q2164445,Ермил Иванович Костров,1
+http://www.wikidata.org/entity/Q2171566,Тэффи,1
+http://www.wikidata.org/entity/Q2174486,Q2174486,1
+http://www.wikidata.org/entity/Q4137591,"Герцык, Аделаида Казимировна",1
+http://www.wikidata.org/entity/Q4137621,"Гершензон, Михаил Осипович",1
+http://www.wikidata.org/entity/Q4138405,Никита Петрович Гиляров-Платонов,1
+http://www.wikidata.org/entity/Q4138632,Лев Владимирович Гинзбург,1
+http://www.wikidata.org/entity/Q4138823,Василий Васильевич Гиппиус,1
+http://www.wikidata.org/entity/Q4138824,Владимир Васильевич Гиппиус,1
+http://www.wikidata.org/entity/Q2338609,"Семенко, Михайль",1
+http://www.wikidata.org/entity/Q2338973,"Коженёвский, Юзеф",1
+http://www.wikidata.org/entity/Q2353026,"Ларионов, Иван Петрович",1
+http://www.wikidata.org/entity/Q2355556,Николай Васильевич Успенский,1
+http://www.wikidata.org/entity/Q488099,"Софронов, Анатолий Владимирович",1
+http://www.wikidata.org/entity/Q488199,"Штейгер, Анатолий Сергеевич",1
+http://www.wikidata.org/entity/Q472518,"Клычков, Сергей Антонович",1
+http://www.wikidata.org/entity/Q473276,"Никитин, Николай Николаевич",1
+http://www.wikidata.org/entity/Q515872,Николай Алексеевич Заболоцкий,1
+http://www.wikidata.org/entity/Q518070,Александр Константинович Воронский,1
+http://www.wikidata.org/entity/Q4135468,Григорий Николаевич Геннади,1
+http://www.wikidata.org/entity/Q4135560,Иван Семёнович Генслер,1
+http://www.wikidata.org/entity/Q4136971,Николай Васильевич Гербель,1
+http://www.wikidata.org/entity/Q4137236,Юрий Павлович Герман,1
+http://www.wikidata.org/entity/Q504006,"Керженцев, Платон Михайлович",1
+http://www.wikidata.org/entity/Q504083,"Уткин, Иосиф Павлович",1
+http://www.wikidata.org/entity/Q508975,"Короткевич, Владимир Семёнович",1
+http://www.wikidata.org/entity/Q511168,"Чайковский, Андрей Яковлевич",1
+http://www.wikidata.org/entity/Q519878,Даниил Александрович Гранин,1
+http://www.wikidata.org/entity/Q4202699,"Иоллос, Григорий Борисович",1
+http://www.wikidata.org/entity/Q4202790,Илья Ионович Ионов,1
+http://www.wikidata.org/entity/Q4203544,"Исаев, Егор Александрович",1
+http://www.wikidata.org/entity/Q4203925,"Искренко, Нина Юрьевна",1
+http://www.wikidata.org/entity/Q4205283,"Итин, Вивиан Азарьевич",1
+http://www.wikidata.org/entity/Q2072622,"Везиров, Наджаф-бек Фатали-бек оглы",1
+http://www.wikidata.org/entity/Q2074353,Нар-Дос,1
+http://www.wikidata.org/entity/Q2074380,Александр Ширванзаде,1
+http://www.wikidata.org/entity/Q4141934,"Головко, Андрей Васильевич",1
+http://www.wikidata.org/entity/Q4142195,"Голосовкер, Яков Эммануилович",1
+http://www.wikidata.org/entity/Q4142727,"Гольдберг, Исаак Григорьевич",1
+http://www.wikidata.org/entity/Q4142814,Виктор Александрович Гольцев,1
+http://www.wikidata.org/entity/Q4143141,"Гонсиоровский, Вацлав",1
+http://www.wikidata.org/entity/Q2362334,Аполлон Александрович Григорьев,1
+http://www.wikidata.org/entity/Q2364423,"Климов, Григорий Петрович",1
+http://www.wikidata.org/entity/Q2364568,Иван Перфильевич Елагин,1
+http://www.wikidata.org/entity/Q2364621,Валентин Саввич Пикуль,1
+http://www.wikidata.org/entity/Q2275525,"Зардаби, Гасан-бек",1
+http://www.wikidata.org/entity/Q2306644,Модест Ильич Чайковский,1
+http://www.wikidata.org/entity/Q4139771,"Глинка, Григорий Андреевич",1
+http://www.wikidata.org/entity/Q4139853,Борис Борисович Глинский,1
+http://www.wikidata.org/entity/Q4140637,Пётр Петрович Гнедич,1
+http://www.wikidata.org/entity/Q4141405,Александр Големба,1
+http://www.wikidata.org/entity/Q4141437,Илья Николаевич Голенищев-Кутузов,1
+http://www.wikidata.org/entity/Q4141496,"Голиков, Владимир Митрофанович",1
+http://www.wikidata.org/entity/Q4141507,"Голиков, Иван Иванович (историк)",1
+http://www.wikidata.org/entity/Q4141586,Николай Сергеевич Голицын,1
+http://www.wikidata.org/entity/Q4141591,Сергей Григорьевич Голицын,1
+http://www.wikidata.org/entity/Q4141650,"Голлербах, Эрих Фёдорович",1
+http://www.wikidata.org/entity/Q4218041,"Качура, Яков Демьянович",1
+http://www.wikidata.org/entity/Q4218084,Казимир Кашевский,1
+http://www.wikidata.org/entity/Q4218219,Иван Александрович Кашкин,1
+http://www.wikidata.org/entity/Q4218338,"Кащенко, Адриан Феофанович",1
+http://www.wikidata.org/entity/Q2371283,Александр Иванович Левитов,1
+http://www.wikidata.org/entity/Q2376240,"Слепцов, Василий Алексеевич",1
+http://www.wikidata.org/entity/Q4076621,"Балинский, Кароль",1
+http://www.wikidata.org/entity/Q4076830,Екатерина Вячеславовна Балобанова,1
+http://www.wikidata.org/entity/Q4077424,Николай Васильевич Банников,1
+http://www.wikidata.org/entity/Q4077632,"Барадийн, Базар Барадиевич",1
+http://www.wikidata.org/entity/Q4077860,"Барановский, Степан Иванович",1
+http://www.wikidata.org/entity/Q4077976,"Барашко, Илларион Матвеевич",1
+http://www.wikidata.org/entity/Q4068360,Константин Иванович Арабажин,1
+http://www.wikidata.org/entity/Q4068824,Абрам Арго,1
+http://www.wikidata.org/entity/Q4069037,Вера Евгеньевна Аренс,1
+http://www.wikidata.org/entity/Q4069436,Николай Николаевич Аркас (старший),1
+http://www.wikidata.org/entity/Q4066642,Варвара Николаевна Анненкова,1
+http://www.wikidata.org/entity/Q4066649,Александра Никитична Анненская,1
+http://www.wikidata.org/entity/Q4067522,Юлий Михайлович Антоновский,1
+http://www.wikidata.org/entity/Q521687,Юнна Петровна Мориц,1
+http://www.wikidata.org/entity/Q529126,Эдуард Иванович Эйхвальд,1
+http://www.wikidata.org/entity/Q538379,Лариса Рейснер,1
+http://www.wikidata.org/entity/Q505031,Сергей Михайлович Соловьёв,1
+http://www.wikidata.org/entity/Q507381,Дмитрий Андреевич Фурманов,1
+http://www.wikidata.org/entity/Q507651,Николай Иванович Греч,1
+http://www.wikidata.org/entity/Q511635,Кароль Антоневич,1
+http://www.wikidata.org/entity/Q4224931,"Князев, Василий Васильевич",1
+http://www.wikidata.org/entity/Q4225526,"Ковальский, Францишек",1
+http://www.wikidata.org/entity/Q4225674,Иван Афанасьевич Кованько,1
+http://www.wikidata.org/entity/Q4145906,Пётр Никитич Горский,1
+http://www.wikidata.org/entity/Q4145986,Дмитрий Петрович Горчаков,1
+http://www.wikidata.org/entity/Q4147056,Анна Ивановна Готовцева,1
+http://www.wikidata.org/entity/Q4147116,"Гоффеншефер, Вениамин Цезаревич",1
+http://www.wikidata.org/entity/Q4148157,"Грачёв, Александр Матвеевич",1
+http://www.wikidata.org/entity/Q4148476,Николай Порфирьевич Греков,1
+http://www.wikidata.org/entity/Q4149220,"Григорук, Евгений Максимович",1
+http://www.wikidata.org/entity/Q4149259,Василий Никифорович Григорьев,1
+http://www.wikidata.org/entity/Q4230585,"Кондратьев, Александр Алексеевич",1
+http://www.wikidata.org/entity/Q4230602,"Кондратьев, Иван Кузьмич",1
+http://www.wikidata.org/entity/Q4230715,"Коневской, Иван Иванович",1
+http://www.wikidata.org/entity/Q4231221,"Конради, Евгения Ивановна",1
+http://www.wikidata.org/entity/Q4231312,Константин Льдов,1
+http://www.wikidata.org/entity/Q4143702,"Горбунов, Иван Фёдорович",1
+http://www.wikidata.org/entity/Q4144113,"Горецкий, Антоний",1
+http://www.wikidata.org/entity/Q4149330,"Григорьев, Сергей Тимофеевич",1
+http://www.wikidata.org/entity/Q4149630,Изабелла Аркадьевна Гриневская,1
+http://www.wikidata.org/entity/Q4150517,"Грузинов, Иван Васильевич",1
+http://www.wikidata.org/entity/Q544983,Денис Васильевич Давыдов,1
+http://www.wikidata.org/entity/Q546520,Сергей Михайлович Степняк-Кравчинский,1
+http://www.wikidata.org/entity/Q548471,Виктор Михайлович Чернов,1
+http://www.wikidata.org/entity/Q549603,"Шамир, Исраэль",1
+http://www.wikidata.org/entity/Q552437,Николай Михайлович Языков,1
+http://www.wikidata.org/entity/Q4221999,Ян Август Киселевский,1
+http://www.wikidata.org/entity/Q4222296,"Киссин, Самуил Викторович",1
+http://www.wikidata.org/entity/Q4223809,Семён Климовский,1
+http://www.wikidata.org/entity/Q4224258,Александр Клушин,1
+http://www.wikidata.org/entity/Q4224388,"Ключарёв, Фёдор Петрович",1
+http://www.wikidata.org/entity/Q4078569,Николай Иванович Барсов,1
+http://www.wikidata.org/entity/Q4078841,Анна Павловна Барыкова,1
+http://www.wikidata.org/entity/Q4078901,Ефрем Ефремович Барышёв,1
+http://www.wikidata.org/entity/Q4218871,Константин Кедров,1
+http://www.wikidata.org/entity/Q4218868,Дмитрий Борисович Кедрин,1
+http://www.wikidata.org/entity/Q4220632,"Ким, Роман Николаевич",1
+http://www.wikidata.org/entity/Q4153667,Размик Давоян,1
+http://www.wikidata.org/entity/Q4154495,"Дангулов, Савва Артемьевич",1
+http://www.wikidata.org/entity/Q4154553,Даниил Паломник,1
+http://www.wikidata.org/entity/Q4073559,Ашуг Алы Гызылвенкли,1
+http://www.wikidata.org/entity/Q4073565,Николай Сергеевич Ашукин,1
+http://www.wikidata.org/entity/Q4227111,"Козьмян, Каэтан",1
+http://www.wikidata.org/entity/Q4227921,"Колкер, Юрий Иосифович",1
+http://www.wikidata.org/entity/Q4228523,"Колосов, Василий Михайлович",1
+http://www.wikidata.org/entity/Q4228533,"Колосов, Марк Борисович",1
+http://www.wikidata.org/entity/Q4228721,"Колтоновская, Елена Александровна",1
+http://www.wikidata.org/entity/Q4228724,"Колтоновский, Андрей Павлович",1
+http://www.wikidata.org/entity/Q4229294,Матвей Комаров,1
+http://www.wikidata.org/entity/Q4229299,Михаил Фёдорович Комаров,1
+http://www.wikidata.org/entity/Q4229400,Василий Алексеевич Комаровский,1
+http://www.wikidata.org/entity/Q4073030,"Ахматова, Елизавета Николаевна",1
+http://www.wikidata.org/entity/Q4073059,"Ахмедзаде, Зульфугар",1
+http://www.wikidata.org/entity/Q4073501,Михаил Ашкинази,1
+http://www.wikidata.org/entity/Q560138,Анна Дмитриевна Радлова,1
+http://www.wikidata.org/entity/Q4070943,Николай Сергеевич Арцыбашев,1
+http://www.wikidata.org/entity/Q2395053,Паруйр Севак,1
+http://www.wikidata.org/entity/Q2405007,"Ахвердов, Абдуррагим Асадбекоглы",1
+http://www.wikidata.org/entity/Q2412021,Иван Иванович Мартынов,1
+http://www.wikidata.org/entity/Q553307,"Петерсон, Кристьян Яак",1
+http://www.wikidata.org/entity/Q4226002,Наум Яковлевич Коган,1
+http://www.wikidata.org/entity/Q4226011,Пётр Семёнович Коган,1
+http://www.wikidata.org/entity/Q4226485,Александр Владимирович Козачинский,1
+http://www.wikidata.org/entity/Q4226649,"Козланюк, Пётр Степанович",1
+http://www.wikidata.org/entity/Q4226909,Пётр Борисович Козловский,1
+http://www.wikidata.org/entity/Q4232404,Дмитрий Иванович Коптев,1
+http://www.wikidata.org/entity/Q4232742,"Коргуев, Матвей Михайлович",1
+http://www.wikidata.org/entity/Q4232743,Николай Алексеевич Коргуев,1
+http://www.wikidata.org/entity/Q4233092,"Коринфский, Аполлон Аполлонович",1
+http://www.wikidata.org/entity/Q4233364,"Корнилов, Борис Петрович",1
+http://www.wikidata.org/entity/Q4233491,Николай Иванович Коробка,1
+http://www.wikidata.org/entity/Q2368365,Алесь Гарун,1
+http://www.wikidata.org/entity/Q2369380,"Кузьмин, Дмитрий Владимирович",1
+http://www.wikidata.org/entity/Q542090,Константин Николаевич Леонтьев,1
+http://www.wikidata.org/entity/Q2417449,Сильва Капутикян,1
+http://www.wikidata.org/entity/Q4161627,"Дильбази, Мирварид Паша кызы",1
+http://www.wikidata.org/entity/Q4161857,"Динамов, Сергей Сергеевич",1
+http://www.wikidata.org/entity/Q529309,Валентин Григорьевич Распутин,1
+http://www.wikidata.org/entity/Q4158898,"Державин, Владимир Васильевич",1
+http://www.wikidata.org/entity/Q4159968,Джафар Кули Ага Джеваншир,1
+http://www.wikidata.org/entity/Q2379361,Павел Александрович Катенин,1
+http://www.wikidata.org/entity/Q2379482,Габриел Сундукян,1
+http://www.wikidata.org/entity/Q2380199,"Гринченко, Борис Дмитриевич",1
+http://www.wikidata.org/entity/Q574502,"Чеменземинли, Юсиф Везир",1
+http://www.wikidata.org/entity/Q557124,Сергей Николаевич Глинка,1
+http://www.wikidata.org/entity/Q557348,Мухтар Омарханович Ауэзов,1
+http://www.wikidata.org/entity/Q557575,Василий Кириллович Тредиаковский,1
+http://www.wikidata.org/entity/Q557855,"Ольжич, Олег",1
+http://www.wikidata.org/entity/Q4152085,"Гумилевский, Лев Иванович",1
+http://www.wikidata.org/entity/Q4152306,"Гуревич, Любовь Яковлевна",1
+http://www.wikidata.org/entity/Q4152719,"Гусев-Оренбургский, Сергей Иванович",1
+http://www.wikidata.org/entity/Q4152881,"Густайтис, Мотеюс",1
+http://www.wikidata.org/entity/Q4154931,"Данько, Елена Яковлевна",1
+http://www.wikidata.org/entity/Q4157030,Михаил Данилович Деларю,1
+http://www.wikidata.org/entity/Q4157435,Николай Александрович Демерт,1
+http://www.wikidata.org/entity/Q4087762,"Благовещенский, Николай Александрович",1
+http://www.wikidata.org/entity/Q4087903,Григорий Евлампиевич Благосветлов,1
+http://www.wikidata.org/entity/Q4088137,Иосиф Близинский,1
+http://www.wikidata.org/entity/Q4088502,Павел Андреевич Бляхин,1
+http://www.wikidata.org/entity/Q2429552,Агаси Айвазян,1
+http://www.wikidata.org/entity/Q2442975,"Руссо, Алеку",1
+http://www.wikidata.org/entity/Q580048,Борис Полевой,1
+http://www.wikidata.org/entity/Q581694,"Белциковский, Адам",1
+http://www.wikidata.org/entity/Q4085679,"Беспалов, Иван Михайлович",1
+http://www.wikidata.org/entity/Q4085762,Майя Яковлевна Бессараб,1
+http://www.wikidata.org/entity/Q4085903,Николай Александрович Бестужев,1
+http://www.wikidata.org/entity/Q4086033,Сергей Сергеевич Бехтеев,1
+http://www.wikidata.org/entity/Q4086158,"Бжозовский, Кароль",1
+http://www.wikidata.org/entity/Q4079942,Николай Николаевич Бахтин,1
+http://www.wikidata.org/entity/Q4080306,Александр Башуцкий,1
+http://www.wikidata.org/entity/Q4081881,"Белза, Владислав",1
+http://www.wikidata.org/entity/Q2390351,Сергей Николаевич Трубецкой,1
+http://www.wikidata.org/entity/Q2394080,"Джаббарлы, Джафар Кафар оглы",1
+http://www.wikidata.org/entity/Q560280,Ираклий Виссарионович Абашидзе,1
+http://www.wikidata.org/entity/Q561659,Иоанн Кронштадтский,1
+http://www.wikidata.org/entity/Q2459284,"Галич, Александр Аркадьевич",1
+http://www.wikidata.org/entity/Q2465639,"Нарежный, Василий Трофимович",1
+http://www.wikidata.org/entity/Q4241579,Николай Иванович Кроль,1
+http://www.wikidata.org/entity/Q4241691,"Кропинский, Людовик",1
+http://www.wikidata.org/entity/Q4242060,Григорий Михайлович Кружков,1
+http://www.wikidata.org/entity/Q4242614,"Крушельницкий, Антон Владиславович",1
+http://www.wikidata.org/entity/Q4242758,Виктор Александрович Крылов,1
+http://www.wikidata.org/entity/Q4237101,"Кошко, Аркадий Францевич",1
+http://www.wikidata.org/entity/Q4237526,"Крамаренко, Борис Алексеевич",1
+http://www.wikidata.org/entity/Q4237579,Наталья Васильевна Крандиевская-Толстая,1
+http://www.wikidata.org/entity/Q4239935,"Крашенинников, Николай Александрович",1
+http://www.wikidata.org/entity/Q4239938,"Крашенинников, Сергей Петрович",1
+http://www.wikidata.org/entity/Q4240412,Мария Всеволодовна Крестовская,1
+http://www.wikidata.org/entity/Q4240550,Иван Петрович Крешев,1
+http://www.wikidata.org/entity/Q4082180,"Белов, Дмитрий Иванович",1
+http://www.wikidata.org/entity/Q4082856,Иван Алексеевич Белоусов,1
+http://www.wikidata.org/entity/Q4083806,"Беницкий, Александр Петрович",1
+http://www.wikidata.org/entity/Q4083972,Фёдор Николаевич Берг,1
+http://www.wikidata.org/entity/Q4166292,"Донич, Александру",1
+http://www.wikidata.org/entity/Q4166912,"Доронин, Иван Иванович",1
+http://www.wikidata.org/entity/Q4167247,Любовь Фёдоровна Достоевская,1
+http://www.wikidata.org/entity/Q4167253,Михаил Михайлович Достоевский,1
+http://www.wikidata.org/entity/Q4167467,"Драверт, Пётр Людовикович",1
+http://www.wikidata.org/entity/Q4168321,"Дробязко, Евгений Антонович",1
+http://www.wikidata.org/entity/Q4171073,"Дурнов, Модест Александрович",1
+http://www.wikidata.org/entity/Q4171160,"Дурылин, Сергей Николаевич",1
+http://www.wikidata.org/entity/Q4172691,Александр Кириллович Жуковский,1
+http://www.wikidata.org/entity/Q4172868,Евгения Тур,1
+http://www.wikidata.org/entity/Q2443650,Григол Григолович Абашидзе,1
+http://www.wikidata.org/entity/Q2447379,Ольга Петровна Косач,1
+http://www.wikidata.org/entity/Q2449431,Армен Оганян,1
+http://www.wikidata.org/entity/Q663447,Фёдор Григорьевич Волков,1
+http://www.wikidata.org/entity/Q665996,"Гнедич, Николай Иванович",1
+http://www.wikidata.org/entity/Q4094475,"Бородаевский, Валериан Валерианович",1
+http://www.wikidata.org/entity/Q4094599,"Бородицкая, Марина Яковлевна",1
+http://www.wikidata.org/entity/Q4094650,Иван Петрович Бороздна,1
+http://www.wikidata.org/entity/Q4095290,Владимир Феофилович Боцяновский,1
+http://www.wikidata.org/entity/Q4095750,"Брайнина, Берта Яковлевна",1
+http://www.wikidata.org/entity/Q4095787,Леонтий Моисеевич Брамсон,1
+http://www.wikidata.org/entity/Q4096093,Александр Исаевич Браудо,1
+http://www.wikidata.org/entity/Q603456,Егор Эдуардович Дриянский,1
+http://www.wikidata.org/entity/Q605564,Эдуард Георгиевич Багрицкий,1
+http://www.wikidata.org/entity/Q585897,Павел Дмитриевич Долгоруков,1
+http://www.wikidata.org/entity/Q587593,"Турчанинов, Павел Дмитриевич",1
+http://www.wikidata.org/entity/Q588449,"Дан, Фёдор Ильич",1
+http://www.wikidata.org/entity/Q2565464,"Чобан-заде, Бекир Ваапович",1
+http://www.wikidata.org/entity/Q2571430,"Сеспель, Мишши",1
+http://www.wikidata.org/entity/Q4179304,Александр Михайлович Жемчужников,1
+http://www.wikidata.org/entity/Q4179314,Владимир Михайлович Жемчужников,1
+http://www.wikidata.org/entity/Q4236122,"Котляревский, Сергей Андреевич",1
+http://www.wikidata.org/entity/Q4236694,Иван Антонович Кочерга,1
+http://www.wikidata.org/entity/Q4236730,"Кочетков, Александр Сергеевич",1
+http://www.wikidata.org/entity/Q629478,Владимир Иванович Нарбут,1
+http://www.wikidata.org/entity/Q632395,"Мазинг, Отто Вильгельм",1
+http://www.wikidata.org/entity/Q642195,"Наумович, Иван Григорьевич",1
+http://www.wikidata.org/entity/Q4162731,"Дмитриев, Валентин Григорьевич",1
+http://www.wikidata.org/entity/Q4162733,"Дмитриев, Василий Васильевич",1
+http://www.wikidata.org/entity/Q4162753,Михаил Дмитриев,1
+http://www.wikidata.org/entity/Q4162778,Тимофей Павлович Дмитриев,1
+http://www.wikidata.org/entity/Q4162786,Фёдор Иванович Дмитриев-Мамонов,1
+http://www.wikidata.org/entity/Q4163620,"Добровольский, Владимир Анатольевич",1
+http://www.wikidata.org/entity/Q4164729,Пётр Владимирович Долгоруков,1
+http://www.wikidata.org/entity/Q4164893,Александр Аркадьевич Долин,1
+http://www.wikidata.org/entity/Q4165703,"Доманская, Антонина",1
+http://www.wikidata.org/entity/Q2498056,"Нечуй-Левицкий, Иван Семёнович",1
+http://www.wikidata.org/entity/Q2500853,Михась Чарот,1
+http://www.wikidata.org/entity/Q4233976,"Коропчевский, Дмитрий Андреевич",1
+http://www.wikidata.org/entity/Q4234293,Пётр Александрович Корсаков,1
+http://www.wikidata.org/entity/Q4234335,"Корсун, Александр Алексеевич",1
+http://www.wikidata.org/entity/Q4234428,Фёдор Фёдорович Корф,1
+http://www.wikidata.org/entity/Q4234537,Евгений Фёдорович Корш,1
+http://www.wikidata.org/entity/Q673283,"Лям, Ян",1
+http://www.wikidata.org/entity/Q677056,Дмитрий Иванович Хвостов,1
+http://www.wikidata.org/entity/Q2525515,Павел Григорьевич Антокольский,1
+http://www.wikidata.org/entity/Q2533394,Иван Яковлевич Яковлев,1
+http://www.wikidata.org/entity/Q2605267,Мирзо Турсун-Заде,1
+http://www.wikidata.org/entity/Q2606532,Акоп Акопян,1
+http://www.wikidata.org/entity/Q2607629,"Антоненко-Давидович, Борис Дмитриевич",1
+http://www.wikidata.org/entity/Q4099212,Анна Петровна Бунина,1
+http://www.wikidata.org/entity/Q4099593,Захар Алексеевич Буринский,1
+http://www.wikidata.org/entity/Q4099731,Николай Давидович Бурлюк,1
+http://www.wikidata.org/entity/Q610532,Давид Давидович Бурлюк,1
+http://www.wikidata.org/entity/Q610648,"Зан, Томаш",1
+http://www.wikidata.org/entity/Q684808,Григоре Павлович Виеру,1
+http://www.wikidata.org/entity/Q687658,Михаил Юрьевич Яцков,1
+http://www.wikidata.org/entity/Q4088724,"Бобрищев-Пушкин, Александр Владимирович",1
+http://www.wikidata.org/entity/Q4088766,Семён Сергеевич Бобров,1
+http://www.wikidata.org/entity/Q4088771,"Бобров, Сергей Павлович",1
+http://www.wikidata.org/entity/Q4089034,"Богатков, Борис Андреевич",1
+http://www.wikidata.org/entity/Q4089313,"Богданович, Пётр Фёдорович",1
+http://www.wikidata.org/entity/Q4089838,Григорий Исаакович Богров,1
+http://www.wikidata.org/entity/Q4089910,Василий Яковлевич Богучарский-Яковлев,1
+http://www.wikidata.org/entity/Q4090034,"Бодуэн де Куртене, Ромуальда Ромуальдовна",1
+http://www.wikidata.org/entity/Q4090172,Божидар,1
+http://www.wikidata.org/entity/Q2587110,"Полонский, Вячеслав Павлович",1
+http://www.wikidata.org/entity/Q2592547,"Хоткевич, Гнат Мартынович",1
+http://www.wikidata.org/entity/Q2596188,Лев Иванович Боровиковский,1
+http://www.wikidata.org/entity/Q2596987,Григорий Фёдорович Квитка-Основьяненко,1
+http://www.wikidata.org/entity/Q4169104,"Дубенский, Дмитрий Николаевич",1
+http://www.wikidata.org/entity/Q4170132,"Дударь, Алесь",1
+http://www.wikidata.org/entity/Q650272,Лев Владимирович Щерба,1
+http://www.wikidata.org/entity/Q4091137,Константин Аристархович Большаков,1
+http://www.wikidata.org/entity/Q4093865,"Борисов, Леонид Ильич",1
+http://www.wikidata.org/entity/Q4094027,"Борисоглебский, Михаил Васильевич",1
+http://www.wikidata.org/entity/Q4094187,Иван Мартынович Борн,1
+http://www.wikidata.org/entity/Q4094270,Александр Львович Боровиковский,1
+http://www.wikidata.org/entity/Q4096456,"Бригинец, Александр Михайлович",1
+http://www.wikidata.org/entity/Q4096929,Владимир Богданович Броневский,1
+http://www.wikidata.org/entity/Q4097955,"Буданцев, Сергей Фёдорович",1
+http://www.wikidata.org/entity/Q2619273,Каетан Крашевский,1
+http://www.wikidata.org/entity/Q2620289,Елена Телига,1
+http://www.wikidata.org/entity/Q2622193,Теодор Нарбут,1
+http://www.wikidata.org/entity/Q4173893,"Егунов, Андрей Николаевич",1
+http://www.wikidata.org/entity/Q4174685,Фёдор Павлович Еленев,1
+http://www.wikidata.org/entity/Q4176539,"Ермилов, Владимир Владимирович",1
+http://www.wikidata.org/entity/Q4177352,"Ефименко, Татьяна Петровна",1
+http://www.wikidata.org/entity/Q4177884,"Жак, Вениамин Константинович",1
+http://www.wikidata.org/entity/Q4178102,Андрей Андреевич Жандр,1
+http://www.wikidata.org/entity/Q700323,Михаил Михайлович Пришвин,1
+http://www.wikidata.org/entity/Q702032,Сергей Сергеевич Аверинцев,1
+http://www.wikidata.org/entity/Q719418,Василий Васильевич Розанов,1
+http://www.wikidata.org/entity/Q706752,Вильгельм Карлович Кюхельбекер,1
+http://www.wikidata.org/entity/Q683690,Александр Афанасьевич Потебня,1
+http://www.wikidata.org/entity/Q684591,Q684591,1
+http://www.wikidata.org/entity/Q4188819,Иван Николаевич Захарьин,1
+http://www.wikidata.org/entity/Q4189135,Сергей Сергеевич Заяицкий,1
+http://www.wikidata.org/entity/Q4189530,"Зверев, Алексей Матвеевич",1
+http://www.wikidata.org/entity/Q4189779,"Звягинцев, Василий Дмитриевич",1
+http://www.wikidata.org/entity/Q4189780,Вера Клавдиевна Звягинцева,1
+http://www.wikidata.org/entity/Q4191488,"Зеньковский, Трофим Абрамович",1
+http://www.wikidata.org/entity/Q2552059,Василий Иванович Кельсиев,1
+http://www.wikidata.org/entity/Q4246771,Александр Яковлевич Кульчицкий,1
+http://www.wikidata.org/entity/Q4248774,Николай Степанович Курочкин,1
+http://www.wikidata.org/entity/Q4249232,Платон Александрович Кусков,1
+http://www.wikidata.org/entity/Q4249389,"Яффе, Лев Борисович",1
+http://www.wikidata.org/entity/Q4249509,Илья Кутик,1
+http://www.wikidata.org/entity/Q4249538,"Куткашенский, Исмаил-бек",1
+http://www.wikidata.org/entity/Q4245319,Пётр Семёнович Кузьменко,1
+http://www.wikidata.org/entity/Q4245822,Павел Васильевич Кукольник,1
+http://www.wikidata.org/entity/Q4246126,"Кулжинский, Иван Григорьевич",1
+http://www.wikidata.org/entity/Q4246144,Сергей Николаевич Кулибин,1
+http://www.wikidata.org/entity/Q4246353,Александра Михайловна Кулиш,1
+http://www.wikidata.org/entity/Q2625598,Ипполит Фёдорович Богданович,1
+http://www.wikidata.org/entity/Q2626360,Александр Николаевич Аксаков,1
+http://www.wikidata.org/entity/Q2627162,Константин Константинович Случевский,1
+http://www.wikidata.org/entity/Q2627166,"Коган, Павел Давыдович",1
+http://www.wikidata.org/entity/Q2627421,Осип Васильевич Аптекман,1
+http://www.wikidata.org/entity/Q4184496,Ефим Петрович Зайцевский,1
+http://www.wikidata.org/entity/Q4184989,Софья Алексеевна Закревская,1
+http://www.wikidata.org/entity/Q4185374,"Заливчий, Андрей Иванович",1
+http://www.wikidata.org/entity/Q4185621,"Залюбовский, Григорий Антонович",1
+http://www.wikidata.org/entity/Q4187452,Андрей Ефимович Зарин,1
+http://www.wikidata.org/entity/Q4187456,Ефим Фёдорович Зарин,1
+http://www.wikidata.org/entity/Q4187858,Юлия Денисовна Засецкая,1
+http://www.wikidata.org/entity/Q724418,Матвей Матвеевич Геденштром,1
+http://www.wikidata.org/entity/Q2598344,Иван Сергеевич Гагарин,1
+http://www.wikidata.org/entity/Q2602834,Александр Яковлевич Аросев,1
+http://www.wikidata.org/entity/Q2603726,Кузебай Герд,1
+http://www.wikidata.org/entity/Q2617530,"Панченко, Пётр Иосифович",1
+http://www.wikidata.org/entity/Q4181430,Анна Сергеевна Жукова,1
+http://www.wikidata.org/entity/Q4181437,Мария Семёновна Жукова,1
+http://www.wikidata.org/entity/Q4181514,"Жуковский, Владимир Григорьевич",1
+http://www.wikidata.org/entity/Q4183327,Алексей Александрович Завьялов,1
+http://www.wikidata.org/entity/Q4183593,"Загорский, Михаил Павлович",1
+http://www.wikidata.org/entity/Q4243110,Александр Павлович Крюков,1
+http://www.wikidata.org/entity/Q4243570,Георгий Кубатьян,1
+http://www.wikidata.org/entity/Q4244371,Раиса Адамовна Кудашева,1
+http://www.wikidata.org/entity/Q4244607,Пётр Николаевич Кудрявцев,1
+http://www.wikidata.org/entity/Q4244849,Татьяна Андреевна Кузминская,1
+http://www.wikidata.org/entity/Q4244897,"Кузнецов, Александр Александрович (1903—1944)",1
+http://www.wikidata.org/entity/Q4250261,Иван Николаевич Кушнерёв,1
+http://www.wikidata.org/entity/Q4252209,"Лавров, Леонид Алексеевич",1
+http://www.wikidata.org/entity/Q4252674,"Ладыженский, Владимир Николаевич",1
+http://www.wikidata.org/entity/Q4104307,Лев Маркович Василевский,1
+http://www.wikidata.org/entity/Q4104305,Илья Маркович Василевский,1
+http://www.wikidata.org/entity/Q2638198,Максим Фаддеевич Рыльский,1
+http://www.wikidata.org/entity/Q2640236,Александр Васильевич Сухово-Кобылин,1
+http://www.wikidata.org/entity/Q713375,Владислав Людвик Анчиц,1
+http://www.wikidata.org/entity/Q713456,Артём Весёлый,1
+http://www.wikidata.org/entity/Q713704,Василий Васильевич Капнист,1
+http://www.wikidata.org/entity/Q726510,Хаим Арлозоров,1
+http://www.wikidata.org/entity/Q727301,Сергей Андреевич Муромцев,1
+http://www.wikidata.org/entity/Q729569,Александр Николаевич Афиногенов,1
+http://www.wikidata.org/entity/Q730900,Михаил Васильевич Исаковский,1
+http://www.wikidata.org/entity/Q723839,Костан Зарян,1
+http://www.wikidata.org/entity/Q724343,Владислав Ходасевич,1
+http://www.wikidata.org/entity/Q721077,Василий Павлович Васильев,1
+http://www.wikidata.org/entity/Q721709,Левон Шант,1
+http://www.wikidata.org/entity/Q721962,Алексей Елисеевич Кручёных,1
+http://www.wikidata.org/entity/Q749883,Александр Христофорович Востоков,1
+http://www.wikidata.org/entity/Q763946,Сулейман Стальский,1
+http://www.wikidata.org/entity/Q4105298,Мария Валентиновна Ватсон,1
+http://www.wikidata.org/entity/Q4105615,Арсений Иванович Введенский,1
+http://www.wikidata.org/entity/Q4105616,Иринарх Иванович Введенский,1
+http://www.wikidata.org/entity/Q4106006,Пётр Исаевич Вейнберг,1
+http://www.wikidata.org/entity/Q4107001,"Вельтман, Александр Фомич",1
+http://www.wikidata.org/entity/Q4107060,"Венгеров, Всеволод Семёнович",1
+http://www.wikidata.org/entity/Q4100233,Яков Петрович Бутков,1
+http://www.wikidata.org/entity/Q4100524,"Бухов, Аркадий Сергеевич",1
+http://www.wikidata.org/entity/Q4100719,"Бущинский, Стефан",1
+http://www.wikidata.org/entity/Q4100955,Пётр Васильевич Быков,1
+http://www.wikidata.org/entity/Q4102225,Николай Петрович Вагнер,1
+http://www.wikidata.org/entity/Q4102274,Людмила Михайловна Вагурина,1
+http://www.wikidata.org/entity/Q2628029,"Тычина, Павло Григорьевич",1
+http://www.wikidata.org/entity/Q2628103,Александр Васильевич Дружинин,1
+http://www.wikidata.org/entity/Q2628472,Иосиф Яковлевич Воронко,1
+http://www.wikidata.org/entity/Q2628650,Борис Викторович Томашевский,1
+http://www.wikidata.org/entity/Q4256424,Вильгельм Вениаминович Левик,1
+http://www.wikidata.org/entity/Q4256600,"Левицкая-Холодная, Наталья Андреевна",1
+http://www.wikidata.org/entity/Q4258778,Леонид Соломонович Первомайский,1
+http://www.wikidata.org/entity/Q4271008,Надежда Григорьевна Львова,1
+http://www.wikidata.org/entity/Q4272918,Василий Лёвшин,1
+http://www.wikidata.org/entity/Q2623542,Георгий Викторович Адамович,1
+http://www.wikidata.org/entity/Q2623548,Саша Чёрный,1
+http://www.wikidata.org/entity/Q2623762,Владимир Николаевич Сосюра,1
+http://www.wikidata.org/entity/Q4192228,Лидия Дмитриевна Зиновьева-Аннибал,1
+http://www.wikidata.org/entity/Q4193062,Ефим Давидович Зозуля,1
+http://www.wikidata.org/entity/Q4193922,Вильгельм Александрович Зоргенфрей,1
+http://www.wikidata.org/entity/Q4194122,Владимир Рафаилович Зотов,1
+http://www.wikidata.org/entity/Q4194138,Рафаил Михайлович Зотов,1
+http://www.wikidata.org/entity/Q4194160,Александра Васильевна Зражевская,1
+http://www.wikidata.org/entity/Q4253958,Евгений Львович Ланн,1
+http://www.wikidata.org/entity/Q4254358,"Лаптев, Юрий Григорьевич",1
+http://www.wikidata.org/entity/Q4254429,Иван Иванович Лапшин,1
+http://www.wikidata.org/entity/Q4255431,"Лачинова, Прасковья Александровна",1
+http://www.wikidata.org/entity/Q4255683,"Лебедев, Алексей Алексеевич",1
+http://www.wikidata.org/entity/Q737874,Константин Симонович Гамсахурдия,1
+http://www.wikidata.org/entity/Q738721,Осип Максимович Брик,1
+http://www.wikidata.org/entity/Q2629336,Василий Васильевич Каменский,1
+http://www.wikidata.org/entity/Q2630560,"Жилка, Владимир Адамович",1
+http://www.wikidata.org/entity/Q2631042,Борис Константинович Зайцев,1
+http://www.wikidata.org/entity/Q2631374,Остап Вишня,1
+http://www.wikidata.org/entity/Q4370651,Леонид Александрович Полонский,1
+http://www.wikidata.org/entity/Q4372308,"Поплавский, Борис Юлианович",1
+http://www.wikidata.org/entity/Q4372428,"Попов, Василий Петрович",1
+http://www.wikidata.org/entity/Q739413,Егише Чаренц,1
+http://www.wikidata.org/entity/Q740848,Нестор Васильевич Кукольник,1
+http://www.wikidata.org/entity/Q4491172,"Флоринский, Василий Маркович",1
+http://www.wikidata.org/entity/Q4491632,Павел Иванович Фонвизин,1
+http://www.wikidata.org/entity/Q4492394,"Франковский, Адриан Антонович",1
+http://www.wikidata.org/entity/Q4493010,Михаил Александрович Фроман,1
+http://www.wikidata.org/entity/Q4493306,Александра Андреевна Фукс,1
+http://www.wikidata.org/entity/Q4493909,Александр Митрофанович Фёдоров,1
+http://www.wikidata.org/entity/Q4483899,"Филимонов, Владимир Сергеевич",1
+http://www.wikidata.org/entity/Q4483994,"Филипович, Павел Петрович",1
+http://www.wikidata.org/entity/Q2640945,Мажит Гафури,1
+http://www.wikidata.org/entity/Q2642396,"Джамбакуриан-Орбелиани, Григорий Дмитриевич",1
+http://www.wikidata.org/entity/Q2651897,"Сабир, Мирза Алекпер",1
+http://www.wikidata.org/entity/Q4261301,Владимир Германович Лидин,1
+http://www.wikidata.org/entity/Q4262918,Константин Липскеров,1
+http://www.wikidata.org/entity/Q4258979,"Леонтович, Владимир Николаевич",1
+http://www.wikidata.org/entity/Q4260577,Татьяна Ивановна Лещенко-Сухомлина,1
+http://www.wikidata.org/entity/Q930040,"Прушинский, Конрад",1
+http://www.wikidata.org/entity/Q931059,"Краснов, Платон Николаевич",1
+http://www.wikidata.org/entity/Q4112410,Евгений Владимирович Витковский,1
+http://www.wikidata.org/entity/Q4264594,"Лобанов, Михаил Евстафьевич",1
+http://www.wikidata.org/entity/Q4266412,Михаил Николаевич Лонгинов,1
+http://www.wikidata.org/entity/Q4269459,Виктор Владимирович Лунин,1
+http://www.wikidata.org/entity/Q825743,"Пантениус, Теодор Герман",1
+http://www.wikidata.org/entity/Q2741209,Q2741209,1
+http://www.wikidata.org/entity/Q4265425,"Лозина-Лозинский, Алексей Константинович",1
+http://www.wikidata.org/entity/Q4266832,Александр Павлович Лопухин,1
+http://www.wikidata.org/entity/Q4266841,"Лопухин, Иван Владимирович",1
+http://www.wikidata.org/entity/Q4268872,"Лукин, Владимир Игнатьевич",1
+http://www.wikidata.org/entity/Q4372521,"Попов, Лазарь Константинович",1
+http://www.wikidata.org/entity/Q4372816,Николай Никитич Поповский,1
+http://www.wikidata.org/entity/Q4372900,"Попугаев, Василий Васильевич",1
+http://www.wikidata.org/entity/Q4377313,Пётр Алексеевич Преображенский,1
+http://www.wikidata.org/entity/Q734901,"Серафимович, Александр Серафимович",1
+http://www.wikidata.org/entity/Q735044,Александр Генрих Нейс,1
+http://www.wikidata.org/entity/Q777997,Арсений Александрович Тарковский,1
+http://www.wikidata.org/entity/Q782176,Леонид Алексеевич Филатов,1
+http://www.wikidata.org/entity/Q4495422,"Хандан, Джафар",1
+http://www.wikidata.org/entity/Q4380353,Николай Яковлевич Прокопович,1
+http://www.wikidata.org/entity/Q4383490,"Пуйда, Казис",1
+http://www.wikidata.org/entity/Q4493929,"Фёдоров, Василий Павлович",1
+http://www.wikidata.org/entity/Q4493962,"Фёдоров, Евгений Александрович",1
+http://www.wikidata.org/entity/Q2636293,Николай Николаевич Страхов,1
+http://www.wikidata.org/entity/Q786094,Лев Львович Кобылинский,1
+http://www.wikidata.org/entity/Q788215,Леонид Иванович Глебов,1
+http://www.wikidata.org/entity/Q790843,"Барта, Шандор",1
+http://www.wikidata.org/entity/Q747538,Николай Иванович Новиков,1
+http://www.wikidata.org/entity/Q2662384,Змитрок Бядуля,1
+http://www.wikidata.org/entity/Q4275745,Владимир Маккавейский,1
+http://www.wikidata.org/entity/Q4276236,"Максимов, Сергей Васильевич",1
+http://www.wikidata.org/entity/Q2656636,"Мамедкулизаде, Джалил Гусейнкули оглы",1
+http://www.wikidata.org/entity/Q2662343,Кузьма Чорный,1
+http://www.wikidata.org/entity/Q4395979,"Родных, Александр Алексеевич",1
+http://www.wikidata.org/entity/Q4396503,Егор Фёдорович Розен,1
+http://www.wikidata.org/entity/Q4396543,Михаил Павлович Розенгейм,1
+http://www.wikidata.org/entity/Q4397589,"Ромм, Александр Ильич",1
+http://www.wikidata.org/entity/Q4397593,"Ромов, Сергей Матвеевич",1
+http://www.wikidata.org/entity/Q4397828,"Росляков, Василий Петрович",1
+http://www.wikidata.org/entity/Q791995,Аксел Бакунц,1
+http://www.wikidata.org/entity/Q800136,"Шпет, Густав Густавович",1
+http://www.wikidata.org/entity/Q893033,"Мронговиуш, Кшиштоф Целестин",1
+http://www.wikidata.org/entity/Q4107757,Александр Васильевич Верещагин,1
+http://www.wikidata.org/entity/Q4107891,Седа Вермишева,1
+http://www.wikidata.org/entity/Q4109120,Юрий Никандрович Верховский,1
+http://www.wikidata.org/entity/Q4109222,"Верцман, Израиль Ефимович",1
+http://www.wikidata.org/entity/Q4109344,Лидия Ивановна Веселитская,1
+http://www.wikidata.org/entity/Q4109404,Юрий Алексеевич Веселовский,1
+http://www.wikidata.org/entity/Q4394214,"Ржевский, Алексей Андреевич",1
+http://www.wikidata.org/entity/Q4394586,"Ризаев, Самир Алекперович",1
+http://www.wikidata.org/entity/Q4394821,Рита Райт-Ковалёва,1
+http://www.wikidata.org/entity/Q4395713,"Родзянко, Семён Емельянович",1
+http://www.wikidata.org/entity/Q2833933,Александр Иванович Пальм,1
+http://www.wikidata.org/entity/Q2846811,"Сергеев, Андрей Яковлевич",1
+http://www.wikidata.org/entity/Q2873374,Авдотья Павловна Глинка,1
+http://www.wikidata.org/entity/Q887801,Григорий Григорьевич Гагарин,1
+http://www.wikidata.org/entity/Q4384716,Василий Львович Пушкин,1
+http://www.wikidata.org/entity/Q4385747,"Пяст, Владимир",1
+http://www.wikidata.org/entity/Q2686702,"Липа, Юрий Иванович",1
+http://www.wikidata.org/entity/Q2705483,Александр Валентинович Амфитеатров,1
+http://www.wikidata.org/entity/Q2707548,Николай Герасимович Помяловский,1
+http://www.wikidata.org/entity/Q973305,Александр Ильич Безыменский,1
+http://www.wikidata.org/entity/Q933749,"Кулиш, Николай Гуриевич",1
+http://www.wikidata.org/entity/Q934073,"Казаков, Юрий Павлович",1
+http://www.wikidata.org/entity/Q934189,Кирша Данилов,1
+http://www.wikidata.org/entity/Q939732,Йосеф Хаим Бренер,1
+http://www.wikidata.org/entity/Q941438,Григорий Борисович Адамов,1
+http://www.wikidata.org/entity/Q905021,Александр Николаевич Энгельгардт,1
+http://www.wikidata.org/entity/Q909001,"Головацкий, Яков Фёдорович",1
+http://www.wikidata.org/entity/Q910392,Джорджо Щербаненко,1
+http://www.wikidata.org/entity/Q922027,Иван Иванович Лажечников,1
+http://www.wikidata.org/entity/Q4387336,"Радимов, Павел Александрович",1
+http://www.wikidata.org/entity/Q2996375,Аббас Сиххат,1
+http://www.wikidata.org/entity/Q2996666,Франциск Бенедикт Богушевич,1
+http://www.wikidata.org/entity/Q2997224,Александр Онисимович Аблесимов,1
+http://www.wikidata.org/entity/Q964250,Илья Даниилович Гальперин-Каминский,1
+http://www.wikidata.org/entity/Q964668,"Клаузнер, Иосиф Львович",1
+http://www.wikidata.org/entity/Q967918,"Шайноха, Карл",1
+http://www.wikidata.org/entity/Q968099,"Кольцов, Михаил Ефимович",1
+http://www.wikidata.org/entity/Q2753467,"Липа, Иван Львович",1
+http://www.wikidata.org/entity/Q2778194,Юлиус Эйзенштейн,1
+http://www.wikidata.org/entity/Q2791390,Степан Семёнович Дудышкин,1
+http://www.wikidata.org/entity/Q2800803,Николай Александрович Холодковский,1
+http://www.wikidata.org/entity/Q4274607,Константин Митрофанович Мазурин,1
+http://www.wikidata.org/entity/Q4274860,Василий Иванович Майков,1
+http://www.wikidata.org/entity/Q4275410,Алла Юльевна Макарова,1
+http://www.wikidata.org/entity/Q4280291,"Мандельштам, Иосиф Емельянович",1
+http://www.wikidata.org/entity/Q4280297,"Мандельштам, Юрий Владимирович",1
+http://www.wikidata.org/entity/Q4280515,Ипполит Александрович Манн,1
+http://www.wikidata.org/entity/Q4281005,"Мар, Анна",1
+http://www.wikidata.org/entity/Q4281217,"Марголин, Моисей Маркович",1
+http://www.wikidata.org/entity/Q4281470,"Марин, Сергей Никифорович",1
+http://www.wikidata.org/entity/Q4281790,Марк Криницкий,1
+http://www.wikidata.org/entity/Q4281867,"Маркевич, Болеслав Михайлович",1
+http://www.wikidata.org/entity/Q4274617,"Мазуркевич, Владимир Александрович",1
+http://www.wikidata.org/entity/Q4275005,Николай Петрович Майоров,1
+http://www.wikidata.org/entity/Q4275380,"Макаров, Михаил Николаевич",1
+http://www.wikidata.org/entity/Q4390735,Даниил Максимович Ратгауз,1
+http://www.wikidata.org/entity/Q4390732,"Ратгауз, Грейнем Израилевич",1
+http://www.wikidata.org/entity/Q4391711,"Ревич, Александр Михайлович",1
+http://www.wikidata.org/entity/Q983724,Николай Владимирович Станкевич,1
+http://www.wikidata.org/entity/Q984030,Илья Михайлович Зданевич,1
+http://www.wikidata.org/entity/Q984644,"Троепольский, Гавриил Николаевич",1
+http://www.wikidata.org/entity/Q985114,Пётр Петрович Гулак-Артемовский,1
+http://www.wikidata.org/entity/Q2986900,"Натаван, Хуршидбану",1
+http://www.wikidata.org/entity/Q2991025,Борис Леонтьевич Горбатов,1
+http://www.wikidata.org/entity/Q4290611,Павел Никитич Меншиков,1
+http://www.wikidata.org/entity/Q4290883,Алексей Фёдорович Мерзляков,1
+http://www.wikidata.org/entity/Q4291043,Вера Александровна Меркурьева,1
+http://www.wikidata.org/entity/Q4499374,"Холодова, Клавдия Фёдоровна",1
+http://www.wikidata.org/entity/Q4501269,Александр Васильевич Храповицкий,1
+http://www.wikidata.org/entity/Q4502238,"Хузангай, Пётр Петрович",1
+http://www.wikidata.org/entity/Q949025,Павел Платонович Чубинский,1
+http://www.wikidata.org/entity/Q949993,Михаил Николаевич Савояров,1
+http://www.wikidata.org/entity/Q952032,Евгений Ваганович Петросян,1
+http://www.wikidata.org/entity/Q952659,Валентин Фёдорович Булгаков,1
+http://www.wikidata.org/entity/Q952777,Александр Иванович Одоевский,1
+http://www.wikidata.org/entity/Q981960,Иван Васильевич Киреевский,1
+http://www.wikidata.org/entity/Q968167,"Чаянов, Александр Васильевич",1
+http://www.wikidata.org/entity/Q953474,Q953474,1
+http://www.wikidata.org/entity/Q958557,Лев Абрамович Нусенбаум,1
+http://www.wikidata.org/entity/Q958766,Константин Константинович Вагинов,1
+http://www.wikidata.org/entity/Q960521,"Стучка, Пётр Иванович",1
+http://www.wikidata.org/entity/Q961887,"Тихомиров, Лев Александрович",1
+http://www.wikidata.org/entity/Q4401772,Борис Борисович Рыжий,1
+http://www.wikidata.org/entity/Q4402054,Сергей Фёдорович Рыскин,1
+http://www.wikidata.org/entity/Q4402281,Рюрик Ивнев,1
+http://www.wikidata.org/entity/Q4402912,С. Бельский,1
+http://www.wikidata.org/entity/Q4403576,Владислав Сабовский,1
+http://www.wikidata.org/entity/Q4403829,Николай Васильевич Савельев-Ростиславич,1
+http://www.wikidata.org/entity/Q2992438,Георгий Владимирович Иванов,1
+http://www.wikidata.org/entity/Q4497013,Надежда Дмитриевна Хвощинская,1
+http://www.wikidata.org/entity/Q4497425,Левон Хечоян,1
+http://www.wikidata.org/entity/Q4497900,"Хирьяков, Александр Модестович",1
+http://www.wikidata.org/entity/Q3051140,Элишева,1
+http://www.wikidata.org/entity/Q3059808,"Де Роберти, Евгений Валентинович",1
+http://www.wikidata.org/entity/Q3064189,Ваагн Давтян,1
+http://www.wikidata.org/entity/Q3141760,"Эпик, Григорий Данилович",1
+http://www.wikidata.org/entity/Q2901857,Нохем Штиф,1
+http://www.wikidata.org/entity/Q2906022,"Абчук, Авром Пинхусович",1
+http://www.wikidata.org/entity/Q4282037,Евгений Львович Марков,1
+http://www.wikidata.org/entity/Q4282073,"Маркова, Вера Николаевна",1
+http://www.wikidata.org/entity/Q4282391,"Марр, Юрий Николаевич",1
+http://www.wikidata.org/entity/Q4282463,Венедикт Март,1
+http://www.wikidata.org/entity/Q4283986,"Маслов, Алексей Николаевич",1
+http://www.wikidata.org/entity/Q4284690,Грант Матевосян,1
+http://www.wikidata.org/entity/Q4503881,"Цензор, Дмитрий Михайлович",1
+http://www.wikidata.org/entity/Q4506812,Антоний Павлович Чайковский,1
+http://www.wikidata.org/entity/Q4507474,Лидия Алексеевна Чарская,1
+http://www.wikidata.org/entity/Q4295315,"Минцлов, Сергей Рудольфович",1
+http://www.wikidata.org/entity/Q4296308,"Миртов, Дмитрий Павлович",1
+http://www.wikidata.org/entity/Q4408990,"Сатин, Николай Михайлович",1
+http://www.wikidata.org/entity/Q4410351,Валериан Яковлевич Ивченко,1
+http://www.wikidata.org/entity/Q4398435,"Ростов, Наум Моисеевич",1
+http://www.wikidata.org/entity/Q4398935,"Рубан, Василий Григорьевич",1
+http://www.wikidata.org/entity/Q4399298,Василий Егорович Рудаков,1
+http://www.wikidata.org/entity/Q4399906,"Рукавишников, Иван Сергеевич",1
+http://www.wikidata.org/entity/Q4401410,"Рыбаков, Моисей Александрович",1
+http://www.wikidata.org/entity/Q4291792,"Метлинский, Амвросий Лукьянович",1
+http://www.wikidata.org/entity/Q4292224,Мехтикули-хан Вафа,1
+http://www.wikidata.org/entity/Q4293022,Иван Кондратьевич Микитенко,1
+http://www.wikidata.org/entity/Q4293282,Владимир Борисович Микушевич,1
+http://www.wikidata.org/entity/Q4293427,Эдуард Милитонян,1
+http://www.wikidata.org/entity/Q4293519,Фёдор Богданович Миллер,1
+http://www.wikidata.org/entity/Q4293670,Михаил Васильевич Милонов,1
+http://www.wikidata.org/entity/Q2986655,"Пашкевич, Алоиза Степановна",1
+http://www.wikidata.org/entity/Q1133092,Всеволод Витальевич Вишневский,1
+http://www.wikidata.org/entity/Q1133441,"Матеевич, Алексей Михайлович",1
+http://www.wikidata.org/entity/Q1137995,"Кречевский, Пётр Антонович",1
+http://www.wikidata.org/entity/Q3008609,"Дунин-Марцинкевич, Викентий Иванович",1
+http://www.wikidata.org/entity/Q3019123,Эльда Грин,1
+http://www.wikidata.org/entity/Q3049569,Екатерина Андреевна Краснова,1
+http://www.wikidata.org/entity/Q4404114,"Савич-Заблоцкий, Войнислав Казимир Константинович",1
+http://www.wikidata.org/entity/Q4404367,Руслан Сагабалян,1
+http://www.wikidata.org/entity/Q4404810,Борис Александрович Садовской,1
+http://www.wikidata.org/entity/Q982896,Самвел Григорян,1
+http://www.wikidata.org/entity/Q983507,Самед Вургун,1
+http://www.wikidata.org/entity/Q4302360,"Морачевский, Филипп Семенович",1
+http://www.wikidata.org/entity/Q4302984,"Морозов, Михаил Михайлович",1
+http://www.wikidata.org/entity/Q4304437,Савва Андреевич Москотильников,1
+http://www.wikidata.org/entity/Q4307055,Салман Мамедамин оглы Мумтаз,1
+http://www.wikidata.org/entity/Q4405936,"Салов, Илья Александрович",1
+http://www.wikidata.org/entity/Q4405971,"Саломон, Александр Петрович",1
+http://www.wikidata.org/entity/Q4406032,Алексей Дмитриевич Салтыков,1
+http://www.wikidata.org/entity/Q4406033,"Салтыков, Борис Михайлович (писатель)",1
+http://www.wikidata.org/entity/Q2993843,Пётр Александрович Плетнёв,1
+http://www.wikidata.org/entity/Q2993939,Ян Барщевский,1
+http://www.wikidata.org/entity/Q1251704,Николай Иванович Кульбин,1
+http://www.wikidata.org/entity/Q1263957,"Казанцев, Александр Петрович",1
+http://www.wikidata.org/entity/Q4514432,"Чернявский, Николай Фёдорович",1
+http://www.wikidata.org/entity/Q4515202,Александр Павлович Чехов,1
+http://www.wikidata.org/entity/Q4515406,Всеволод Евграфович Чешихин,1
+http://www.wikidata.org/entity/Q4515405,"Чешихин, Василий Евграфович",1
+http://www.wikidata.org/entity/Q4517863,Николай Корнеевич Чуковский,1
+http://www.wikidata.org/entity/Q4517980,"Чумак, Василий Григорьевич",1
+http://www.wikidata.org/entity/Q4518029,"Чумаченко, Ада Артемьевна",1
+http://www.wikidata.org/entity/Q4518516,Ольга Николаевна Чюмина,1
+http://www.wikidata.org/entity/Q3249844,Шушаник Кургинян,1
+http://www.wikidata.org/entity/Q3260645,Иероним Иеронимович Ясинский,1
+http://www.wikidata.org/entity/Q3313647,"Андроников, Михаил Михайлович",1
+http://www.wikidata.org/entity/Q3313671,Михаил Валентинович Кульчицкий,1
+http://www.wikidata.org/entity/Q3315385,Сергей Абрамович Ауслендер,1
+http://www.wikidata.org/entity/Q3341689,"Рубакин, Николай Александрович",1
+http://www.wikidata.org/entity/Q4508411,"Челищев, Пётр Иванович",1
+http://www.wikidata.org/entity/Q1046246,Константин Андреевич Тренёв,1
+http://www.wikidata.org/entity/Q1047353,Егор Петрович Ковалевский,1
+http://www.wikidata.org/entity/Q4522849,"Шенгели, Георгий Аркадьевич",1
+http://www.wikidata.org/entity/Q4523043,"Шервинский, Сергей Васильевич",1
+http://www.wikidata.org/entity/Q1343915,Осип Дымов,1
+http://www.wikidata.org/entity/Q1345193,Николай Бажан,1
+http://www.wikidata.org/entity/Q4526803,"Штейнгейль, Владимир Иванович",1
+http://www.wikidata.org/entity/Q4527209,"Шубинский, Сергей Николаевич",1
+http://www.wikidata.org/entity/Q4527701,Пётр Васильевич Шумахер,1
+http://www.wikidata.org/entity/Q4531651,Геворг Эмин,1
+http://www.wikidata.org/entity/Q4531782,Николай Александрович Энгельгардт,1
+http://www.wikidata.org/entity/Q4531781,Михаил Александрович Энгельгардт,1
+http://www.wikidata.org/entity/Q4532413,"Эренберг, Густав",1
+http://www.wikidata.org/entity/Q4316720,Юрий Александрович Нелединский-Мелецкий,1
+http://www.wikidata.org/entity/Q4316782,"Нельдихен, Сергей Евгеньевич",1
+http://www.wikidata.org/entity/Q4317676,"Несмелов, Арсений",1
+http://www.wikidata.org/entity/Q4318175,Филипп Диомидович Нефёдов,1
+http://www.wikidata.org/entity/Q4318233,Егор Ефимович Нечаев,1
+http://www.wikidata.org/entity/Q1155439,Юрий Маркович Нагибин,1
+http://www.wikidata.org/entity/Q1155890,Давид Мурадян,1
+http://www.wikidata.org/entity/Q1156074,Овик Вардумян,1
+http://www.wikidata.org/entity/Q1071573,Дмитрий Константинович Гирс,1
+http://www.wikidata.org/entity/Q1071676,Антоний Погорельский,1
+http://www.wikidata.org/entity/Q4310106,"Мюр, Виктор Карлович",1
+http://www.wikidata.org/entity/Q4310254,Венедикт Александрович Мякотин,1
+http://www.wikidata.org/entity/Q4310409,Иван Петрович Мятлев,1
+http://www.wikidata.org/entity/Q4311350,"Навваб, Мир Мохсун",1
+http://www.wikidata.org/entity/Q4311436,Александр Александрович Навроцкий,1
+http://www.wikidata.org/entity/Q4298154,Мориц Ильич Михельсон,1
+http://www.wikidata.org/entity/Q4298180,Владимир Осипович Михневич,1
+http://www.wikidata.org/entity/Q1358911,"Фельман, Фридрих Роберт",1
+http://www.wikidata.org/entity/Q1359523,"Фелинский, Алоизий",1
+http://www.wikidata.org/entity/Q1361286,"Потоцкий, Станислав Костка",1
+http://www.wikidata.org/entity/Q1228472,Михаил Леонович Гаспаров,1
+http://www.wikidata.org/entity/Q1229486,Осип Иванович Сенковский,1
+http://www.wikidata.org/entity/Q1232413,"Голицын, Дмитрий Алексеевич",1
+http://www.wikidata.org/entity/Q1280138,Зигмас Ионович Ангаретис,1
+http://www.wikidata.org/entity/Q1282198,Иван Александрович Ильин,1
+http://www.wikidata.org/entity/Q4424743,"Смирнов, Николай Семёнович",1
+http://www.wikidata.org/entity/Q4424822,Софья Ивановна Смирнова-Сазонова,1
+http://www.wikidata.org/entity/Q4425788,Вадим Николаевич Собко,1
+http://www.wikidata.org/entity/Q4425872,Сергей Александрович Соболевский,1
+http://www.wikidata.org/entity/Q4520898,Микаэл Шатирян,1
+http://www.wikidata.org/entity/Q1363261,Алексей Капитонович Гастев,1
+http://www.wikidata.org/entity/Q1369319,Карлис Бауманис,1
+http://www.wikidata.org/entity/Q4416657,"Воронич, Ян Павел",1
+http://www.wikidata.org/entity/Q4416981,"Сергеенко, Пётр Алексеевич",1
+http://www.wikidata.org/entity/Q4419754,"Симонов, Матвей Терентьевич",1
+http://www.wikidata.org/entity/Q4420588,"Синявский, Алексей Наумович",1
+http://www.wikidata.org/entity/Q4307740,"Муравьёв, Михаил Никитич",1
+http://www.wikidata.org/entity/Q4307753,Иван Матвеевич Муравьёв-Апостол,1
+http://www.wikidata.org/entity/Q4307894,Мурацан,1
+http://www.wikidata.org/entity/Q4308892,"Муханов, Николай Иванович",1
+http://www.wikidata.org/entity/Q4528123,"Шухов, Иван Петрович",1
+http://www.wikidata.org/entity/Q4528756,Татьяна Львовна Щепкина-Куперник,1
+http://www.wikidata.org/entity/Q4529066,Владимир Романович Щиглев,1
+http://www.wikidata.org/entity/Q4529229,"Щурат, Василий Григорьевич",1
+http://www.wikidata.org/entity/Q4529317,Павел Елисеевич Щёголев,1
+http://www.wikidata.org/entity/Q4524276,"Ширинский-Шихматов, Сергей Александрович",1
+http://www.wikidata.org/entity/Q4524305,Елена Михайловна Ширман,1
+http://www.wikidata.org/entity/Q4524509,Иван Геннадьевич Ширяев,1
+http://www.wikidata.org/entity/Q4524852,Зинаида Константиновна Шишова,1
+http://www.wikidata.org/entity/Q4524870,Александр Шищенко,1
+http://www.wikidata.org/entity/Q4524920,"Шкапская, Мария Михайловна",1
+http://www.wikidata.org/entity/Q4441763,Александр Петрович Степанов,1
+http://www.wikidata.org/entity/Q4442537,"Стечкин, Сергей Яковлевич",1
+http://www.wikidata.org/entity/Q4442545,"Стешенко, Иван Матвеевич",1
+http://www.wikidata.org/entity/Q3156153,Иван Михайлович Долгоруков,1
+http://www.wikidata.org/entity/Q3165231,"Авакян, Эдуард Самвелович",1
+http://www.wikidata.org/entity/Q3210067,Павел Петрович Свиньин,1
+http://www.wikidata.org/entity/Q4410682,"Свидницкий, Анатолий Патрикеевич",1
+http://www.wikidata.org/entity/Q4411863,"Себыла, Владислав",1
+http://www.wikidata.org/entity/Q4413678,Александр Фёдорович Селиванов,1
+http://www.wikidata.org/entity/Q4415101,Василий Иванович Семевский,1
+http://www.wikidata.org/entity/Q4415842,Николай Петрович Семёнов,1
+http://www.wikidata.org/entity/Q4415856,Сергей Семёнов,1
+http://www.wikidata.org/entity/Q1321127,"Инанишвили, Реваз Константинович",1
+http://www.wikidata.org/entity/Q1322306,Всеволод Александрович Рождественский,1
+http://www.wikidata.org/entity/Q1324968,Q1324968,1
+http://www.wikidata.org/entity/Q3375788,Агафон Мейерман,1
+http://www.wikidata.org/entity/Q3388995,Q3388995,1
+http://www.wikidata.org/entity/Q3391998,Платон Александрович Ширинский-Шихматов,1
+http://www.wikidata.org/entity/Q3448937,Гасан Алкадари,1
+http://www.wikidata.org/entity/Q3478437,Семён Егорович Раич,1
+http://www.wikidata.org/entity/Q3479488,Сергей Маркович Перский,1
+http://www.wikidata.org/entity/Q3479720,Сергей Фёдорович Дуров,1
+http://www.wikidata.org/entity/Q4312417,"Найдёнов, Сергей Александрович",1
+http://www.wikidata.org/entity/Q4313473,Андрей Андреевич Нартов,1
+http://www.wikidata.org/entity/Q4315634,Пётр Михайлович Невежин,1
+http://www.wikidata.org/entity/Q4316085,"Недоброво, Николай Владимирович",1
+http://www.wikidata.org/entity/Q4320698,Николай Петрович Николев,1
+http://www.wikidata.org/entity/Q4320882,"Никольский, Вадим Дмитриевич",1
+http://www.wikidata.org/entity/Q4334998,Ада Ивановна Оношкович-Яцына,1
+http://www.wikidata.org/entity/Q1093709,Михаил Петрович Погодин,1
+http://www.wikidata.org/entity/Q1099935,"Мейер, Фёдор Егорович",1
+http://www.wikidata.org/entity/Q1101130,"Маградзе, Давид Элгуджаевич",1
+http://www.wikidata.org/entity/Q1340503,Алексей Михайлович Ремизов,1
+http://www.wikidata.org/entity/Q4421982,Иван Никитич Скобелев,1
+http://www.wikidata.org/entity/Q4422339,"Скоропись-Иолтуховский, Александр Филаретович",1
+http://www.wikidata.org/entity/Q4422872,"Славин, Лев Исаевич",1
+http://www.wikidata.org/entity/Q4422995,Степан Тимофеевич Славутинский,1
+http://www.wikidata.org/entity/Q4423463,"Слиозберг, Генрих Борисович",1
+http://www.wikidata.org/entity/Q4423886,Пётр Андреевич Словцов,1
+http://www.wikidata.org/entity/Q1380516,Пётр Дмитриевич Боборыкин,1
+http://www.wikidata.org/entity/Q4427221,Николай Матвеевич Соколов,1
+http://www.wikidata.org/entity/Q4427243,Сергей Алексеевич Соколов,1
+http://www.wikidata.org/entity/Q4428049,Евгений Андреевич Соловьёв,1
+http://www.wikidata.org/entity/Q4428107,Поликсена Сергеевна Соловьёва,1
+http://www.wikidata.org/entity/Q4429101,Осия Петрович Сорока,1
+http://www.wikidata.org/entity/Q4430133,Надежда Степановна Соханская,1
+http://www.wikidata.org/entity/Q4330794,"Овсепян, Рубен Георгиевич",1
+http://www.wikidata.org/entity/Q4332707,Окро Окроян,1
+http://www.wikidata.org/entity/Q4333348,"Окунев, Яков Маркович",1
+http://www.wikidata.org/entity/Q4333665,Олесь Досвитный,1
+http://www.wikidata.org/entity/Q4536877,Владимир Дмитриевич Яковлев,1
+http://www.wikidata.org/entity/Q4536921,Михаил Лукьянович Яковлев,1
+http://www.wikidata.org/entity/Q4537141,Лукьян Андреевич Якубович,1
+http://www.wikidata.org/entity/Q4538046,Екатерина Николаевна Янжул,1
+http://www.wikidata.org/entity/Q4538089,"Янишевский, Леон",1
+http://www.wikidata.org/entity/Q4538195,Абель Ефимович Яновский,1
+http://www.wikidata.org/entity/Q1399717,"Вольнов, Иван Егорович",1
+http://www.wikidata.org/entity/Q1403105,Фелициан Фаленский,1
+http://www.wikidata.org/entity/Q1414677,Пётр Александрович Валуев,1
+http://www.wikidata.org/entity/Q1422265,"Ротштейн, Фёдор Аронович",1
+http://www.wikidata.org/entity/Q1485988,Михаил Саввич Джавахишвили,1
+http://www.wikidata.org/entity/Q1496509,Гавриил Степанович Батеньков,1
+http://www.wikidata.org/entity/Q4438444,"Сребрянский, Андрей Порфирьевич",1
+http://www.wikidata.org/entity/Q4438802,"Срезневский, Иван Евсеевич",1
+http://www.wikidata.org/entity/Q4439051,"Ставский, Владимир Петрович",1
+http://www.wikidata.org/entity/Q4440803,"Старцев, Абель Исаакович",1
+http://www.wikidata.org/entity/Q4440830,Альберт Викентьевич Старчевский,1
+http://www.wikidata.org/entity/Q4441351,"Стахеев, Дмитрий Иванович",1
+http://www.wikidata.org/entity/Q4441363,Михаил Александрович Стахович,1
+http://www.wikidata.org/entity/Q4441645,"Стенич, Валентин Иосифович",1
+http://www.wikidata.org/entity/Q4532501,Эрл Мартов,1
+http://www.wikidata.org/entity/Q4533194,"Эфендиев, Рашид-бек",1
+http://www.wikidata.org/entity/Q4533230,Ариадна Сергеевна Эфрон,1
+http://www.wikidata.org/entity/Q4533234,"Эфрос, Абрам Маркович",1
+http://www.wikidata.org/entity/Q4533875,Сергей Николаевич Южаков,1
+http://www.wikidata.org/entity/Q4536741,"Якобсон, Анатолий Александрович",1
+http://www.wikidata.org/entity/Q4539715,Александр Николаевич Яхонтов,1
+http://www.wikidata.org/entity/Q4539799,"Яцкевич, Фома Иванович",1
+http://www.wikidata.org/entity/Q4665897,Абдулла Арипов,1
+http://www.wikidata.org/entity/Q4679442,Q4679442,1
+http://www.wikidata.org/entity/Q4715753,"Бибик, Алексей Павлович",1
+http://www.wikidata.org/entity/Q3492337,"Варанкин, Владимир Валентинович",1
+http://www.wikidata.org/entity/Q3507116,Герман Бернштейн,1
+http://www.wikidata.org/entity/Q3510684,"Осьмачка, Феодосий Степанович",1
+http://www.wikidata.org/entity/Q3565095,"Некрасов, Николай Владимирович",1
+http://www.wikidata.org/entity/Q3570869,Ксения Алексеевна Морозова,1
+http://www.wikidata.org/entity/Q3574447,"Есаян, Забель",1
+http://www.wikidata.org/entity/Q3609520,Александр Михайлович Добролюбов,1
+http://www.wikidata.org/entity/Q4343827,Владимир Иванович Панаев,1
+http://www.wikidata.org/entity/Q4345173,"Парин, Алексей Васильевич",1
+http://www.wikidata.org/entity/Q4324364,"Новокшонов, Иван Михайлович",1
+http://www.wikidata.org/entity/Q4327256,Нора Галь,1
+http://www.wikidata.org/entity/Q4327452,"Норов, Александр Сергеевич",1
+http://www.wikidata.org/entity/Q4328578,"Нюстрём, Рагнар Яковлевич",1
+http://www.wikidata.org/entity/Q4329349,"Облонская, Раиса Ефимовна",1
+http://www.wikidata.org/entity/Q4329471,Платон Григорьевич Ободовский,1
+http://www.wikidata.org/entity/Q4330617,"Овалов, Лев Сергеевич",1
+http://www.wikidata.org/entity/Q4444290,Александр Николаевич Струговщиков,1
+http://www.wikidata.org/entity/Q4444309,Николай Еремеевич Струйский,1
+http://www.wikidata.org/entity/Q4445130,Борис Алексеевич Суворин,1
+http://www.wikidata.org/entity/Q4446736,Аполлинария Прокофьевна Суслова,1
+http://www.wikidata.org/entity/Q1380555,"Каляев, Иван Платонович",1
+http://www.wikidata.org/entity/Q1388238,"Зеров, Николай Константинович",1
+http://www.wikidata.org/entity/Q4338364,Николай Алексеевич Осокин,1
+http://www.wikidata.org/entity/Q4339134,"Остроумов, Лев Евгеньевич",1
+http://www.wikidata.org/entity/Q4339928,"Отрада, Николай Карпович",1
+http://www.wikidata.org/entity/Q4341539,Николай Филиппович Павлов,1
+http://www.wikidata.org/entity/Q4342828,Лиодор Иванович Пальмин,1
+http://www.wikidata.org/entity/Q1349910,"Линде, Самуил Богумил",1
+http://www.wikidata.org/entity/Q1357983,"Энно, Эрнст",1
+http://www.wikidata.org/entity/Q4459969,"Толстой, Сергей Николаевич",1
+http://www.wikidata.org/entity/Q4460261,Анатолий Николаевич Томилин,1
+http://www.wikidata.org/entity/Q4462222,"Трауберг, Наталья Леонидовна",1
+http://www.wikidata.org/entity/Q4462753,Леонид Николаевич Трефолев,1
+http://www.wikidata.org/entity/Q4462969,Моисей Львович Тривус,1
+http://www.wikidata.org/entity/Q4464073,"Трояновский, Александр Валерьянович",1
+http://www.wikidata.org/entity/Q4451627,"Тарасенков, Анатолий Кузьмич",1
+http://www.wikidata.org/entity/Q4452042,"Тарловский, Марк Ариевич",1
+http://www.wikidata.org/entity/Q4452199,"Тарусский, Николай",1
+http://www.wikidata.org/entity/Q4453634,Варткес Тевекелян,1
+http://www.wikidata.org/entity/Q4454198,"Телешов, Николай Дмитриевич",1
+http://www.wikidata.org/entity/Q1394078,"Соловьёв, Леонид Васильевич",1
+http://www.wikidata.org/entity/Q3692601,"Вереницын, Константин Васильевич",1
+http://www.wikidata.org/entity/Q3692622,Язеп Лёсик,1
+http://www.wikidata.org/entity/Q3735234,Хендрик Адамсон,1
+http://www.wikidata.org/entity/Q3736937,Александр Фёдорович Воейков,1
+http://www.wikidata.org/entity/Q4361824,Михаил Онисифорович Петухов,1
+http://www.wikidata.org/entity/Q4362843,"Пильский, Пётр Мосевич",1
+http://www.wikidata.org/entity/Q4363530,Александр Александрович Писарев,1
+http://www.wikidata.org/entity/Q4365006,Александр Алексеевич Плещеев,1
+http://www.wikidata.org/entity/Q4365090,"Плисецкий, Герман Борисович",1
+http://www.wikidata.org/entity/Q3652531,"Ахвледиани, Эрлом Сергеевич",1
+http://www.wikidata.org/entity/Q3653188,"Папазян, Ваграм Камерович",1
+http://www.wikidata.org/entity/Q1395565,Константин Васильевич Иванов,1
+http://www.wikidata.org/entity/Q1395652,Александр Фёдорович Гильфердинг,1
+http://www.wikidata.org/entity/Q4893733,Юзеф Вейсенгоф,1
+http://www.wikidata.org/entity/Q4987208,"Фролова-Багреева, Елизавета Михайловна",1
+http://www.wikidata.org/entity/Q5092607,Елизавета Ивановна Дмитриева,1
+http://www.wikidata.org/entity/Q3646760,Тамаз Чиладзе,1
+http://www.wikidata.org/entity/Q3647192,"Астапенко, Дмитрий Емельянович",1
+http://www.wikidata.org/entity/Q5645924,Амо Сагиян,1
+http://www.wikidata.org/entity/Q5686760,Гайк Котанджян,1
+http://www.wikidata.org/entity/Q6359719,Камсар Аветисян,1
+http://www.wikidata.org/entity/Q6398824,Хачик Даштенц,1
+http://www.wikidata.org/entity/Q6479761,Q6479761,1
+http://www.wikidata.org/entity/Q1442386,Q1442386,1
+http://www.wikidata.org/entity/Q1442408,"Заблоцкий, Францишек",1
+http://www.wikidata.org/entity/Q1460719,Владимир Иванович Савченко,1
+http://www.wikidata.org/entity/Q1462377,Готхард Фридрих Стендер,1
+http://www.wikidata.org/entity/Q1397360,Леон Василевский,1
+http://www.wikidata.org/entity/Q1399280,Ян Лехонь,1
+http://www.wikidata.org/entity/Q1399327,Ованес Шираз,1
+http://www.wikidata.org/entity/Q1657304,Игнатий Мацеевский,1
+http://www.wikidata.org/entity/Q4450544,"Талов, Марк Владимирович",1
+http://www.wikidata.org/entity/Q4450987,Грачья Тамразян,1
+http://www.wikidata.org/entity/Q4359604,"Песис, Борис Аронович",1
+http://www.wikidata.org/entity/Q4360145,"Петарис, Винцас",1
+http://www.wikidata.org/entity/Q4360497,Пантелеймон Антонович Петренко,1
+http://www.wikidata.org/entity/Q4360717,Василий Петрович Петров,1
+http://www.wikidata.org/entity/Q4360864,"Петров, Сергей Владимирович",1
+http://www.wikidata.org/entity/Q4361624,Алвард Петросян,1
+http://www.wikidata.org/entity/Q4361635,Вардгес Петросян,1
+http://www.wikidata.org/entity/Q4361649,Мариам Петросян,1
+http://www.wikidata.org/entity/Q3849955,"Гуринович, Адам",1
+http://www.wikidata.org/entity/Q3856322,Михаил Дмитриевич Чулков,1
+http://www.wikidata.org/entity/Q3876929,Николай Александрович Серно-Соловьевич,1
+http://www.wikidata.org/entity/Q3887480,"Забила, Виктор Николаевич",1
+http://www.wikidata.org/entity/Q3558296,Виктор Петрович Буренин,1
+http://www.wikidata.org/entity/Q3563718,Всеволод Эдуардович Багрицкий,1
+http://www.wikidata.org/entity/Q3563724,Всеволод Дмитриевич Костомаров,1
+http://www.wikidata.org/entity/Q3651918,"Габашвили, Екатерина Ревазовна",1
+http://www.wikidata.org/entity/Q3740432,Александр Александрович Шаховской,1
+http://www.wikidata.org/entity/Q3771268,Ирьё Сакари Ирьё-Коскинен,1
+http://www.wikidata.org/entity/Q3788582,"Устианович, Николай Леонтьевич",1
+http://www.wikidata.org/entity/Q3792538,Илья Львович Толстой,1
+http://www.wikidata.org/entity/Q4456130,Сергей Николаевич Терпигорев,1
+http://www.wikidata.org/entity/Q4457596,Борис Николаевич Тимофеев-Еропкин,1
+http://www.wikidata.org/entity/Q4457883,Александр Иванович Тиняков,1
+http://www.wikidata.org/entity/Q4458257,"Титов, Владимир Павлович",1
+http://www.wikidata.org/entity/Q4459580,Ирина Петровна Токмакова,1
+http://www.wikidata.org/entity/Q4470778,Сусанна Альфонсовна Укше,1
+http://www.wikidata.org/entity/Q4475006,Ульяна Кравченко,1
+http://www.wikidata.org/entity/Q4477688,"Усиевич, Елена Феликсовна",1
+http://www.wikidata.org/entity/Q4477860,"Усова, Галина Сергеевна",1
+http://www.wikidata.org/entity/Q1713908,"Ханон, Юрий",1
+http://www.wikidata.org/entity/Q1714252,"Пранайтис, Иустин",1
+http://www.wikidata.org/entity/Q1715077,"Дзеконьский, Юзеф Богдан",1
+http://www.wikidata.org/entity/Q1718839,"Трублаини, Николай Петрович",1
+http://www.wikidata.org/entity/Q5398944,"Паррас, Эмиль Бертелович",1
+http://www.wikidata.org/entity/Q5590544,Грааль Арельский,1
+http://www.wikidata.org/entity/Q5620020,Гурген Борян,1
+http://www.wikidata.org/entity/Q4725095,"Мамедзаде, Али Назми Магомед оглы,",1
+http://www.wikidata.org/entity/Q4791687,Аркадий Георгиевич Горнфельд,1
+http://www.wikidata.org/entity/Q4796342,Фредерик Флориан Скарбек,1
+http://www.wikidata.org/entity/Q4811605,Балаш Азероглу,1
+http://www.wikidata.org/entity/Q4817706,Атрпет,1
+http://www.wikidata.org/entity/Q1856908,"Мичинский, Тадеуш",1
+http://www.wikidata.org/entity/Q1888703,Владимир Львович Бурцев,1
+http://www.wikidata.org/entity/Q4464157,"Трубецкой, Владимир Сергеевич",1
+http://www.wikidata.org/entity/Q4465350,Василий Иванович Туманский,1
+http://www.wikidata.org/entity/Q4466664,"Туфанов, Александр Васильевич",1
+http://www.wikidata.org/entity/Q4466742,Сергей Алексеевич Тучков,1
+http://www.wikidata.org/entity/Q4466885,Иван Иванович Тхоржевский,1
+http://www.wikidata.org/entity/Q1675999,"Проханов, Иван Степанович",1
+http://www.wikidata.org/entity/Q1676007,Иван Васильевич Евдокимов,1
+http://www.wikidata.org/entity/Q1694620,"Лордкипанидзе, Нико",1
+http://www.wikidata.org/entity/Q11730107,"Минасович, Юзеф Дионизий",1
+http://www.wikidata.org/entity/Q11742908,Константы Мария Гурский,1
+http://www.wikidata.org/entity/Q11764030,Q11764030,1
+http://www.wikidata.org/entity/Q11767714,Q11767714,1
+http://www.wikidata.org/entity/Q11771768,"Гославский, Маврикий",1
+http://www.wikidata.org/entity/Q11778552,Q11778552,1
+http://www.wikidata.org/entity/Q11779040,Q11779040,1
+http://www.wikidata.org/entity/Q11779752,"Павликовский, Мечислав (писатель)",1
+http://www.wikidata.org/entity/Q11787584,"Терещенко, Николай Иванович",1
+http://www.wikidata.org/entity/Q11792814,Q11792814,1
+http://www.wikidata.org/entity/Q4368358,"Подстаницкий, Александр Витальевич",1
+http://www.wikidata.org/entity/Q4368907,Николай Иванович Позняков,1
+http://www.wikidata.org/entity/Q4369328,"Покровский, Сергей Викторович",1
+http://www.wikidata.org/entity/Q4369652,Ксенофонт Алексеевич Полевой,1
+http://www.wikidata.org/entity/Q4369955,"Поликарпов-Орлов, Фёдор Поликарпович",1
+http://www.wikidata.org/entity/Q4347236,Иоганн Вернер Паус,1
+http://www.wikidata.org/entity/Q4347789,"Пегельман, Ханс Густавович",1
+http://www.wikidata.org/entity/Q1770503,Паулина Венгерова,1
+http://www.wikidata.org/entity/Q1776910,Валентин Яковлевич Парнах,1
+http://www.wikidata.org/entity/Q1782723,Константин Константинович Арсеньев,1
+http://www.wikidata.org/entity/Q7245023,"Лазарев, Виктор Никитич",1
+http://www.wikidata.org/entity/Q7251703,Богдан-Юрий Николаевич Кравцив,1
+http://www.wikidata.org/entity/Q1966212,"Суриков, Иван Захарович",1
+http://www.wikidata.org/entity/Q1967027,Степан Петрович Шевырёв,1
+http://www.wikidata.org/entity/Q3887704,"Плужник, Евгений Павлович",1
+http://www.wikidata.org/entity/Q3888504,"Тесленко, Архип Ефимович",1
+http://www.wikidata.org/entity/Q3888737,"Руданский, Степан Васильевич",1
+http://www.wikidata.org/entity/Q3889237,Феликс Заменгоф,1
+http://www.wikidata.org/entity/Q3892490,"Фальковский, Дмитрий Никанорович",1
+http://www.wikidata.org/entity/Q3892599,"Михальский, Евгений Иосифович",1
+http://www.wikidata.org/entity/Q3917984,"Архангельский, Александр Семёнович",1
+http://www.wikidata.org/entity/Q3918280,"Ходзько, Михал",1
+http://www.wikidata.org/entity/Q3918747,"Тавлай, Валентин Павлович",1
+http://www.wikidata.org/entity/Q3918917,Леон Потоцкий,1
+http://www.wikidata.org/entity/Q3919118,"Алешко, Василий Иванович",1
+http://www.wikidata.org/entity/Q6894829,"Новомисский, Моисей Иосифович",1
+http://www.wikidata.org/entity/Q3920418,Плакид Гаврилович Янковский,1
+http://www.wikidata.org/entity/Q3920532,"Бабареко, Адам Антонович",1
+http://www.wikidata.org/entity/Q3920608,Константин Максимович Сементовский,1
+http://www.wikidata.org/entity/Q3920709,"Коротынский, Винцент Александрович",1
+http://www.wikidata.org/entity/Q3920902,Дмитрий Васильевич Аверкиев,1
+http://www.wikidata.org/entity/Q3803406,"Меттер, Израиль Моисеевич",1
+http://www.wikidata.org/entity/Q3811416,"Галансков, Юрий Тимофеевич",1
+http://www.wikidata.org/entity/Q3814149,Q3814149,1
+http://www.wikidata.org/entity/Q3848779,Мирослав Ирчан,1
+http://www.wikidata.org/entity/Q12102655,Q12102655,1
+http://www.wikidata.org/entity/Q12107616,Q12107616,1
+http://www.wikidata.org/entity/Q12110932,"Коваленко, Алексей Кузьмич",1
+http://www.wikidata.org/entity/Q12112683,"Копыленко, Александр Иванович",1
+http://www.wikidata.org/entity/Q1700668,Вацлав Ролич-Лидер,1
+http://www.wikidata.org/entity/Q1707814,Иван Иванович Билык,1
+http://www.wikidata.org/entity/Q1710674,Q1710674,1
+http://www.wikidata.org/entity/Q3847390,Юрий Клен,1
+http://www.wikidata.org/entity/Q1958084,Алексей Михайлович Жемчужников,1
+http://www.wikidata.org/entity/Q1958372,"Рейн, Евгений Борисович",1
+http://www.wikidata.org/entity/Q1958799,Людас Гира,1
+http://www.wikidata.org/entity/Q1959117,Евдокия Петровна Ростопчина,1
+http://www.wikidata.org/entity/Q1960433,Николай Николаевич Златовратский,1
+http://www.wikidata.org/entity/Q6761541,Мария Родзевич,1
+http://www.wikidata.org/entity/Q6795166,Валентина Иововна Дмитриева,1
+http://www.wikidata.org/entity/Q6947545,"Яловой, Михаил Емельянович",1
+http://www.wikidata.org/entity/Q7606083,Q7606083,1
+http://www.wikidata.org/entity/Q7943182,Вртанес Папазян,1
+http://www.wikidata.org/entity/Q7967125,Q7967125,1
+http://www.wikidata.org/entity/Q3892924,"Йогансен, Майк Гервасиевич",1
+http://www.wikidata.org/entity/Q3893509,"Васильченко, Степан Васильевич",1
+http://www.wikidata.org/entity/Q3906623,"Михайлов, Спиридон Михайлович",1
+http://www.wikidata.org/entity/Q3917377,"Фелинская, Ева",1
+http://www.wikidata.org/entity/Q3917403,"Кулик, Иван Юлианович",1
+http://www.wikidata.org/entity/Q14568384,Варвара Григорьевна Малахиева-Мирович,1
+http://www.wikidata.org/entity/Q14763616,Надежда Надеждина,1
+http://www.wikidata.org/entity/Q14912619,"Санников, Григорий Александрович",1
+http://www.wikidata.org/entity/Q1807087,Елена Андреевна Ган,1
+http://www.wikidata.org/entity/Q1813169,"Кржижановский, Сигизмунд Доминикович",1
+http://www.wikidata.org/entity/Q1818392,"Груздев, Илья Александрович",1
+http://www.wikidata.org/entity/Q1819749,Леопольд Леонидович Авербах,1
+http://www.wikidata.org/entity/Q1854114,"Прудников, Алесь",1
+http://www.wikidata.org/entity/Q11801415,Олекса Андреевич Слисаренко,1
+http://www.wikidata.org/entity/Q11852591,"Пресс, Аркадий Германович",1
+http://www.wikidata.org/entity/Q11875584,Леонид Петрович Бельский,1
+http://www.wikidata.org/entity/Q11885848,"Иогансон, Оскар Эрландович",1
+http://www.wikidata.org/entity/Q12033154,Q12033154,1
+http://www.wikidata.org/entity/Q8863833,Q8863833,1
+http://www.wikidata.org/entity/Q8864217,Зенон Петкевич,1
+http://www.wikidata.org/entity/Q8866163,Зигмунт Пшибыльский,1
+http://www.wikidata.org/entity/Q9138383,Q9138383,1
+http://www.wikidata.org/entity/Q9139604,"Горчинский, Адам",1
+http://www.wikidata.org/entity/Q9150737,Анатолий Григорьевич Макриди,1
+http://www.wikidata.org/entity/Q9175545,"Аспис, Богумил",1
+http://www.wikidata.org/entity/Q9263098,Q9263098,1
+http://www.wikidata.org/entity/Q9294499,"Косынка, Григорий Михайлович",1
+http://www.wikidata.org/entity/Q9335784,"Духинская, Северина",1
+http://www.wikidata.org/entity/Q16640879,"Гурко-Кряжин, Владимир Александрович",1
+http://www.wikidata.org/entity/Q16652398,"Жуковский-Жук, Иосиф Иванович",1
+http://www.wikidata.org/entity/Q16654423,"Зонин, Александр Ильич",1
+http://www.wikidata.org/entity/Q16658454,Семён Петрович Либерман,1
+http://www.wikidata.org/entity/Q1960513,Вадим Габриэлевич Шершеневич,1
+http://www.wikidata.org/entity/Q1961179,"Философов, Дмитрий Владимирович",1
+http://www.wikidata.org/entity/Q1961202,"Киприанович, Григорий Яковлевич",1
+http://www.wikidata.org/entity/Q1961415,Георгий Васильевич Бутми,1
+http://www.wikidata.org/entity/Q12089921,Олекса Фёдорович Влызько,1
+http://www.wikidata.org/entity/Q3920097,Q3920097,1
+http://www.wikidata.org/entity/Q3920158,"Головач, Платон Романович",1
+http://www.wikidata.org/entity/Q3920210,"Соколов-Микитов, Иван Сергеевич",1
+http://www.wikidata.org/entity/Q3920249,"Голубок, Владислав Иосифович",1
+http://www.wikidata.org/entity/Q3920289,"Янчук, Николай Андреевич",1
+http://www.wikidata.org/entity/Q15061051,Александр Ардалионович Шишков,1
+http://www.wikidata.org/entity/Q15061145,"Шенрок, Владимир Иванович",1
+http://www.wikidata.org/entity/Q15061312,"Чугунов, Владимир Михайлович",1
+http://www.wikidata.org/entity/Q15061347,"Чижов, Николай Алексеевич",1
+http://www.wikidata.org/entity/Q15061393,Антон Владимирович Чёрный,1
+http://www.wikidata.org/entity/Q15063034,"Фурман, Пётр Романович",1
+http://www.wikidata.org/entity/Q21140574,"Цехновицер, Орест Вениаминович",1
+http://www.wikidata.org/entity/Q21144374,"Тухолка, Сергей Владимирович",1
+http://www.wikidata.org/entity/Q21210355,Анаит Бостанджян,1
+http://www.wikidata.org/entity/Q21211852,Лорис Кроян,1
+http://www.wikidata.org/entity/Q21212283,Ваагн Мугнецян,1
+http://www.wikidata.org/entity/Q1962014,Василий Степанович Курочкин,1
+http://www.wikidata.org/entity/Q12090558,"Вольвач, Мария Степановна",1
+http://www.wikidata.org/entity/Q12094743,Гео Коляда,1
+http://www.wikidata.org/entity/Q12098138,"Грушевская, Ольга Александровна",1
+http://www.wikidata.org/entity/Q12098140,Q12098140,1
+http://www.wikidata.org/entity/Q12101366,"Днепровский, Иван",1
+http://www.wikidata.org/entity/Q16721278,"Шуф, Владимир Александрович",1
+http://www.wikidata.org/entity/Q17094099,"Гурштейн, Арон Шефтелевич",1
+http://www.wikidata.org/entity/Q17133055,Софья Владимировна Энгельгардт,1
+http://www.wikidata.org/entity/Q1962049,Лев Платонович Карсавин,1
+http://www.wikidata.org/entity/Q1962344,Теодор Буйницкий,1
+http://www.wikidata.org/entity/Q1963222,Николай Иванович Тургенев,1
+http://www.wikidata.org/entity/Q1963470,"Лозинский, Михаил Леонидович",1
+http://www.wikidata.org/entity/Q15064206,Дмитрий Ахшарумов,1
+http://www.wikidata.org/entity/Q15064225,Константин Иванович Бабиков,1
+http://www.wikidata.org/entity/Q1902952,Мсер Мсерианц,1
+http://www.wikidata.org/entity/Q1903991,Анна Анатольевна Наль,1
+http://www.wikidata.org/entity/Q1926717,Миха Йосеф Бердичевский,1
+http://www.wikidata.org/entity/Q12123571,"Мысик, Василий Александрович",1
+http://www.wikidata.org/entity/Q12130178,"Мосендз, Леонид Маркович",1
+http://www.wikidata.org/entity/Q1968214,Николай Иванович Хохлов,1
+http://www.wikidata.org/entity/Q1968327,"Зарьян, Наири",1
+http://www.wikidata.org/entity/Q15071686,Алексей Васильевич Тимофеев,1
+http://www.wikidata.org/entity/Q15072522,Дмитрий Егорович Мин,1
+http://www.wikidata.org/entity/Q16665041,Варвара Дмитриевна Комарова,1
+http://www.wikidata.org/entity/Q16677079,"Михельсон, Алексей Давидович",1
+http://www.wikidata.org/entity/Q16678531,"Мукдойни, Александр",1
+http://www.wikidata.org/entity/Q8007777,Мир Хамза Нигари,1
+http://www.wikidata.org/entity/Q8007847,Ашуг Пери,1
+http://www.wikidata.org/entity/Q8009947,Мирза Мухаммед Катиб,1
+http://www.wikidata.org/entity/Q8009996,Мемо-бек Мемаи,1
+http://www.wikidata.org/entity/Q8011215,Мирза Рагим Фена,1
+http://www.wikidata.org/entity/Q12113385,Михаил Петрович Косач,1
+http://www.wikidata.org/entity/Q12114156,"Кранихфельд, Владимир Павлович",1
+http://www.wikidata.org/entity/Q12115533,Q12115533,1
+http://www.wikidata.org/entity/Q12116920,Борис Александрович Лазаревский,1
+http://www.wikidata.org/entity/Q12117386,Модест Филиппович Левицкий,1
+http://www.wikidata.org/entity/Q7473871,"Коряк, Владимир Дмитриевич",1
+http://www.wikidata.org/entity/Q7510451,"Аникин, Степан Васильевич",1
+http://www.wikidata.org/entity/Q7525579,Сипан Шираз,1
+http://www.wikidata.org/entity/Q7017018,Ольга Андреевна Шапир,1
+http://www.wikidata.org/entity/Q7017910,София Павловна Соболева,1
+http://www.wikidata.org/entity/Q7076370,"Адамович, Богуслав",1
+http://www.wikidata.org/entity/Q7155762,Павел Дмитриевич Широков,1
+http://www.wikidata.org/entity/Q7212595,"Росковшенко, Иван Васильевич",1
+http://www.wikidata.org/entity/Q7224484,Молла Джума,1
+http://www.wikidata.org/entity/Q1930316,Михаил Матвеевич Херасков,1
+http://www.wikidata.org/entity/Q1935543,Александр Иванович Введенский,1
+http://www.wikidata.org/entity/Q1956360,Нариман Кербалаи Наджаф оглы Нариманов,1
+http://www.wikidata.org/entity/Q1957798,Николай Макарович Олейников,1
+http://www.wikidata.org/entity/Q12138752,Q12138752,1
+http://www.wikidata.org/entity/Q12138785,"Панив, Андрей Степанович",1
+http://www.wikidata.org/entity/Q12140623,"Писаревский, Степан",1
+http://www.wikidata.org/entity/Q12141445,Андрей Подолинский,1
+http://www.wikidata.org/entity/Q12142181,"Полищук, Валериан Львович",1
+http://www.wikidata.org/entity/Q12142190,"Полищук, Клим Лаврентьевич",1
+http://www.wikidata.org/entity/Q12142400,"Попович-Боярская, Климентина Карловна",1
+http://www.wikidata.org/entity/Q21574127,Q21574127,1
+http://www.wikidata.org/entity/Q21596717,Игорь Владимирович Юрков,1
+http://www.wikidata.org/entity/Q21635321,Константин Михайлович Айбулат,1
+http://www.wikidata.org/entity/Q8008821,Абдулла Паша Джанизаде,1
+http://www.wikidata.org/entity/Q8009664,Мухаммед Али-бек Мехфи,1
+http://www.wikidata.org/entity/Q8010279,Мирза Алескер Новреc,1
+http://www.wikidata.org/entity/Q8011180,Абдулла-бек Аси,1
+http://www.wikidata.org/entity/Q8041349,Q8041349,1
+http://www.wikidata.org/entity/Q8070849,Жирайр Ананян,1
+http://www.wikidata.org/entity/Q8084499,Q8084499,1
+http://www.wikidata.org/entity/Q15066073,Анатолий Иванович Фаресов,1
+http://www.wikidata.org/entity/Q15066258,Соломон Егиазаров,1
+http://www.wikidata.org/entity/Q15066986,"Зеланд-Дубельт, Елена Александровна",1
+http://www.wikidata.org/entity/Q12148669,"Романович-Ткаченко, Наталия Даниловна",1
+http://www.wikidata.org/entity/Q12150058,"Савченко, Яков Григорьевич",1
+http://www.wikidata.org/entity/Q12151212,Владимир Ефимович Свидзинский,1
+http://www.wikidata.org/entity/Q12152134,Иван Ефимович Сенченко,1
+http://www.wikidata.org/entity/Q12153553,"Славинский, Максим Антонович",1
+http://www.wikidata.org/entity/Q12157253,Q12157253,1
+http://www.wikidata.org/entity/Q12161487,Q12161487,1
+http://www.wikidata.org/entity/Q12162893,Борис Александрович Турганов,1
+http://www.wikidata.org/entity/Q12163140,Дмитрий Тягнигоре,1
+http://www.wikidata.org/entity/Q12166590,"Филянский, Николай Григорьевич",1
+http://www.wikidata.org/entity/Q12073874,"Ивченко, Михаил Евдокимович",1
+http://www.wikidata.org/entity/Q12078742,"Павлюк, Антон Филиппович",1
+http://www.wikidata.org/entity/Q12079005,Саломея Арешян,1
+http://www.wikidata.org/entity/Q21644338,"Свешников, Владимир Сергеевич",1
+http://www.wikidata.org/entity/Q21656794,"Струмилло, Юзеф",1
+http://www.wikidata.org/entity/Q21696849,Григор Мелик-Саркисян,1
+http://www.wikidata.org/entity/Q22022758,"Наумова, Варвара Николаевна",1
+http://www.wikidata.org/entity/Q22041374,Михаил Васильевич Троицкий,1
+http://www.wikidata.org/entity/Q22045747,Александр Владимирович Котульский,1
+http://www.wikidata.org/entity/Q22045917,"Панфилов, Евгений Андреевич",1
+http://www.wikidata.org/entity/Q22046373,"Серебрянский, Марк Исаакович",1
+http://www.wikidata.org/entity/Q22117388,Александр Иванович Тарасов,1
+http://www.wikidata.org/entity/Q15649255,"Мишин, Армас Иосифович",1
+http://www.wikidata.org/entity/Q16702619,"Корецкий, Юрий Владимирович",1
+http://www.wikidata.org/entity/Q16706164,Q16706164,1
+http://www.wikidata.org/entity/Q16712778,Иосиф Иванович Фудель,1
+http://www.wikidata.org/entity/Q22944513,Павел Александрович Матвеев,1
+http://www.wikidata.org/entity/Q23656261,"Ойслендер, Наум Евсеевич",1
+http://www.wikidata.org/entity/Q11023392,Мкртич Армен,1
+http://www.wikidata.org/entity/Q11035496,Гегам Сарьян,1
+http://www.wikidata.org/entity/Q11176492,Грачья Кочар,1
+http://www.wikidata.org/entity/Q11652358,Q11652358,1
+http://www.wikidata.org/entity/Q11692789,Даниэль Нойфильд,1
+http://www.wikidata.org/entity/Q12171033,"Шамрай, Агапий Филиппович",1
+http://www.wikidata.org/entity/Q12171080,"Шаповал, Никита Ефимович",1
+http://www.wikidata.org/entity/Q12171577,"Шейковский, Каллиник Васильевич",1
+http://www.wikidata.org/entity/Q42702930,"Келтуяла, Василий Афанасьевич",1
+http://www.wikidata.org/entity/Q42705583,"Костарев, Николай Константинович",1
+http://www.wikidata.org/entity/Q42707342,"Кацнельсон, Леонид Михайлович",1
+http://www.wikidata.org/entity/Q42708119,"Лёвберг, Мария Евгеньевна",1
+http://www.wikidata.org/entity/Q43176294,Артавазд Туманян,1
+http://www.wikidata.org/entity/Q43191662,Александр Георгиевич Сулава,1
+http://www.wikidata.org/entity/Q43541404,Николай Николаевич Захаров-Мэнский,1
+http://www.wikidata.org/entity/Q43858938,Василий Львович Львов-Рогачевский,1
+http://www.wikidata.org/entity/Q44246083,Q44246083,1
+http://www.wikidata.org/entity/Q46991640,Варткес Агаронян,1
+http://www.wikidata.org/entity/Q50597043,"Кнарян, Анаид Григорьевна",1
+http://www.wikidata.org/entity/Q50824569,"Шрамек, Иван Федорович",1
+http://www.wikidata.org/entity/Q54464997,Александр Дмитриевич Воеводин,1
+http://www.wikidata.org/entity/Q54975336,"Шульчев, Валентин Иванович",1
+http://www.wikidata.org/entity/Q54975846,"Ливертовский, Иосиф Моисеевич",1
+http://www.wikidata.org/entity/Q55004074,Хачик Сафарян,1
+http://www.wikidata.org/entity/Q9352725,Q9352725,1
+http://www.wikidata.org/entity/Q9370417,"Моржковская, Валерия",1
+http://www.wikidata.org/entity/Q9375872,"Вандурский, Витольд Вацлавович",1
+http://www.wikidata.org/entity/Q9381932,Q9381932,1
+http://www.wikidata.org/entity/Q9381965,Владислав Корнель Зелиньский,1
+http://www.wikidata.org/entity/Q9382428,Q9382428,1
+http://www.wikidata.org/entity/Q9391734,"Дромлевичова, Зофья",1
+http://www.wikidata.org/entity/Q9391878,Q9391878,1
+http://www.wikidata.org/entity/Q11708825,"Мнишек, Хелена",1
+http://www.wikidata.org/entity/Q11719098,Q11719098,1
+http://www.wikidata.org/entity/Q11729535,"Горлис-Горский, Юрий Юрьевич",1
+http://www.wikidata.org/entity/Q17384249,"Тихля, Хильда Карловна",1
+http://www.wikidata.org/entity/Q17393095,Мария Людвиговна Моравская,1
+http://www.wikidata.org/entity/Q15090998,Василий Гаврилович Рождественский,1
+http://www.wikidata.org/entity/Q56292002,"Шпицберг, Иван Анатольевич",1
+http://www.wikidata.org/entity/Q56565914,Q56565914,1
+http://www.wikidata.org/entity/Q56568090,Надежда Сергеевна Теплова,1
+http://www.wikidata.org/entity/Q12616607,Чо Гичхон,1
+http://www.wikidata.org/entity/Q12648671,"Кришчюкайтис, Антанас",1
+http://www.wikidata.org/entity/Q12657667,Q12657667,1
+http://www.wikidata.org/entity/Q10965994,Ян Хенцинский,1
+http://www.wikidata.org/entity/Q17281002,"Чумиков, Владимир Александрович",1
+http://www.wikidata.org/entity/Q13028512,Q13028512,1
+http://www.wikidata.org/entity/Q13028528,Артюр Бартельс,1
+http://www.wikidata.org/entity/Q13028871,"Оршанский, Борис Михайлович",1
+http://www.wikidata.org/entity/Q13032500,"Лыньков, Григорий Тихонович",1
+http://www.wikidata.org/entity/Q13033087,Владимир Каризна,1
+http://www.wikidata.org/entity/Q13033527,"Корсак, Юлиан",1
+http://www.wikidata.org/entity/Q13033566,"Бронштейн, Яков Анатольевич",1
+http://www.wikidata.org/entity/Q13033628,Евгений Александрович Ляцкий,1
+http://www.wikidata.org/entity/Q13050902,"Граши, Ашот Багдасарович",1
+http://www.wikidata.org/entity/Q13050906,Ашот Габриелян,1
+http://www.wikidata.org/entity/Q12403403,Абрам Соломонович Каменецкий,1
+http://www.wikidata.org/entity/Q12408216,Яков Львович Черток,1
+http://www.wikidata.org/entity/Q12541532,Евгения Фёдоровна Книпович,1
+http://www.wikidata.org/entity/Q12543524,"Абдирашев, Жараскан",1
+http://www.wikidata.org/entity/Q12546421,Корнелий Люцианович Зелинский,1
+http://www.wikidata.org/entity/Q15699421,Нина Леонидовна Дарузес,1
+http://www.wikidata.org/entity/Q15705126,Андрей Витальевич Лубенский,1
+http://www.wikidata.org/entity/Q15706497,Александр Фёдорович Шенин,1
+http://www.wikidata.org/entity/Q15706607,"Победоносцев, Сергей Петрович",1
+http://www.wikidata.org/entity/Q15706618,Мария Фёдоровна Лорие,1
+http://www.wikidata.org/entity/Q15707226,Сергей Васильевич Безобразов,1
+http://www.wikidata.org/entity/Q15707240,Георгий Петрович Блок,1
+http://www.wikidata.org/entity/Q15707329,Любовь Константиновна Циолковская,1
+http://www.wikidata.org/entity/Q15709339,Николай Мартемьянович Чукмалдин,1
+http://www.wikidata.org/entity/Q15720226,Юлиан Павлович Анисимов,1
+http://www.wikidata.org/entity/Q15720234,Александра Викторовна Богданович,1
+http://www.wikidata.org/entity/Q15720236,Татьяна Александровна Богданович,1
+http://www.wikidata.org/entity/Q15720240,Василий Васильевич Брусянин,1
+http://www.wikidata.org/entity/Q15720254,Михаил Алексеевич Воронов,1
+http://www.wikidata.org/entity/Q15720255,Яков Андреевич Галенковский,1
+http://www.wikidata.org/entity/Q15720256,Екатерина Ивановна Гарднер,1
+http://www.wikidata.org/entity/Q15720266,Дмитрий Иванович Глушков,1
+http://www.wikidata.org/entity/Q15720267,Иван Иванович Гольц-Миллер,1
+http://www.wikidata.org/entity/Q15720264,Дмитрий Иванович Глебов,1
+http://www.wikidata.org/entity/Q15720273,Николай Фёдорович Грамматин,1
+http://www.wikidata.org/entity/Q15720278,Адриан Илларионович Дубровский,1
+http://www.wikidata.org/entity/Q15720279,Евгений Викторович Дунаевский,1
+http://www.wikidata.org/entity/Q15720282,Илья Михайлович Елин,1
+http://www.wikidata.org/entity/Q15720285,Григорий Васильевич Есипов,1
+http://www.wikidata.org/entity/Q15720290,Андрей Владимирович Звенигородский,1
+http://www.wikidata.org/entity/Q15720291,Николай Иванович Золотницкий,1
+http://www.wikidata.org/entity/Q15720296,Александр Григорьевич Карин,1
+http://www.wikidata.org/entity/Q15720301,Всеволод Гаврилович Князев,1
+http://www.wikidata.org/entity/Q15629130,Степан Семёнович Кондурушкин,1
+http://www.wikidata.org/entity/Q15631951,Павел Петрович Шкляревский,1
+http://www.wikidata.org/entity/Q15632478,Александра Андреевна Кублицкая-Пиоттух,1
+http://www.wikidata.org/entity/Q15635428,Михаил Алексеевич Яковлев,1
+http://www.wikidata.org/entity/Q15636300,Пётр Дмитриевич Бутурлин,1
+http://www.wikidata.org/entity/Q15636306,Иван Феликсович Тхоржевский,1
+http://www.wikidata.org/entity/Q15636308,Александра Александровна Тхоржевская,1
+http://www.wikidata.org/entity/Q15636309,Виктор Григорьевич Тепляков,1
+http://www.wikidata.org/entity/Q15636906,Иван Иванович Варакин,1
+http://www.wikidata.org/entity/Q15636951,Лидия Моисеевна Варковицкая,1
+http://www.wikidata.org/entity/Q15636994,Фёдор Владимирович Вишневский,1
+http://www.wikidata.org/entity/Q15637096,Фёдор Алексеевич Червинский,1
+http://www.wikidata.org/entity/Q12173518,"Яковлев, Иван Васильевич",1
+http://www.wikidata.org/entity/Q12173764,"Яновская, Любовь Александровна",1
+http://www.wikidata.org/entity/Q12174274,Григорий Николаевич Ге,1
+http://www.wikidata.org/entity/Q15076772,Дмитрий Петрович Ознобишин,1
+http://www.wikidata.org/entity/Q15077679,Николай Андреевич Панов,1
+http://www.wikidata.org/entity/Q24264468,Q24264468,1
+http://www.wikidata.org/entity/Q24464969,Давид Ааронович Черномордиков,1
+http://www.wikidata.org/entity/Q24643364,Зинаида Евгеньевна Александрова,1
+http://www.wikidata.org/entity/Q25343726,Q25343726,1
+http://www.wikidata.org/entity/Q13052109,Аветик Курбанян,1
+http://www.wikidata.org/entity/Q13052140,Арамаис Саакян,1
+http://www.wikidata.org/entity/Q13052198,"Котикян, Арман Ананиевич",1
+http://www.wikidata.org/entity/Q13052242,Аршак Атаян,1
+http://www.wikidata.org/entity/Q13052271,Арташес Арам,1
+http://www.wikidata.org/entity/Q13052360,Багиш Овсепян,1
+http://www.wikidata.org/entity/Q13052512,Гарегин Бес,1
+http://www.wikidata.org/entity/Q13052518,Q13052518,1
+http://www.wikidata.org/entity/Q13052517,Гарегин Мелоян,1
+http://www.wikidata.org/entity/Q13052520,Гарегин Зарппаналян,1
+http://www.wikidata.org/entity/Q13052622,Григор Нерсисян,1
+http://www.wikidata.org/entity/Q13052620,Григор Акопян,1
+http://www.wikidata.org/entity/Q13052638,Геворк Абов,1
+http://www.wikidata.org/entity/Q13052641,Q13052641,1
+http://www.wikidata.org/entity/Q13052782,Q13052782,1
+http://www.wikidata.org/entity/Q13052830,Q13052830,1
+http://www.wikidata.org/entity/Q13052852,Зорайр Халафян,1
+http://www.wikidata.org/entity/Q13053112,Левон Согомонян,1
+http://www.wikidata.org/entity/Q13053155,Хорен Аджемян,1
+http://www.wikidata.org/entity/Q13053418,Q13053418,1
+http://www.wikidata.org/entity/Q13053704,Генрик Эдоян,1
+http://www.wikidata.org/entity/Q13053715,Q13053715,1
+http://www.wikidata.org/entity/Q13053844,Грант Раган,1
+http://www.wikidata.org/entity/Q17422663,Софья Ивановна Снессорева,1
+http://www.wikidata.org/entity/Q17682616,Вера Оскаровна Станевич,1
+http://www.wikidata.org/entity/Q17907843,Андрей Евгеньевич Гусев,1
+http://www.wikidata.org/entity/Q17984218,Константин Горбунов,1
+http://www.wikidata.org/entity/Q18036034,Q18036034,1
+http://www.wikidata.org/entity/Q18036084,Богдан Видога,1
+http://www.wikidata.org/entity/Q18044185,Лонгин Фёдорович Пантелеев,1
+http://www.wikidata.org/entity/Q18609456,Лев Николаевич Зилов,1
+http://www.wikidata.org/entity/Q18704663,Q18704663,1
+http://www.wikidata.org/entity/Q18743207,Василий Васильевич Толбин,1
+http://www.wikidata.org/entity/Q15720303,Фёдор Яковлевич Козельский,1
+http://www.wikidata.org/entity/Q15720308,Дмитрий Антонович Крыжановский,1
+http://www.wikidata.org/entity/Q15720309,Дмитрий Юрьевич Кузнецов,1
+http://www.wikidata.org/entity/Q15720318,Фёдор Иванович Ленкевич,1
+http://www.wikidata.org/entity/Q15720316,Павел Артемьевич Левашев,1
+http://www.wikidata.org/entity/Q15720321,Александра Николаевна Линдегрен,1
+http://www.wikidata.org/entity/Q15720327,Александр Сергеевич Лыкошин,1
+http://www.wikidata.org/entity/Q15720324,Владимир Сергеевич Лихачёв,1
+http://www.wikidata.org/entity/Q15720338,Алексей Яковлевич Мейснер,1
+http://www.wikidata.org/entity/Q15720337,"Мезьер, Августа Владимировна",1
+http://www.wikidata.org/entity/Q15720351,Николай Николаевич Мотонис,1
+http://www.wikidata.org/entity/Q15720354,Прокофий Егорович Накрохин,1
+http://www.wikidata.org/entity/Q15720352,Алексей Николаевич Мошин,1
+http://www.wikidata.org/entity/Q15720362,Михаил Олешев,1
+http://www.wikidata.org/entity/Q15720361,Пётр Алексеевич Оленин,1
+http://www.wikidata.org/entity/Q15720364,Иосиф Лейбович Оршер,1
+http://www.wikidata.org/entity/Q15720370,Карл Александрович Петерсон,1
+http://www.wikidata.org/entity/Q15720371,Дмитрий Константинович Петров,1
+http://www.wikidata.org/entity/Q15720369,"Пестов, Семён Семёнович",1
+http://www.wikidata.org/entity/Q15720375,Павел Дмитриевич Пихно,1
+http://www.wikidata.org/entity/Q15720373,Елена Фёдоровна Писарева,1
+http://www.wikidata.org/entity/Q15720380,Виктор Лазаревич Поляков,1
+http://www.wikidata.org/entity/Q15720387,Вячеслав Викторович Пузик,1
+http://www.wikidata.org/entity/Q15720390,Иван Петрович Разсадин,1
+http://www.wikidata.org/entity/Q15720388,Феофил Феофилович Пуцыкович,1
+http://www.wikidata.org/entity/Q15720389,Николай Александрович Радищев,1
+http://www.wikidata.org/entity/Q15720395,Александр Гаврилович Ротчев,1
+http://www.wikidata.org/entity/Q15720398,Ростислав Иванович Сементковский,1
+http://www.wikidata.org/entity/Q15720396,"Рудич, Вера Ивановна",1
+http://www.wikidata.org/entity/Q15720404,Алексей Павлович Сниткин,1
+http://www.wikidata.org/entity/Q15720405,Михаил Григорьевич Собакин,1
+http://www.wikidata.org/entity/Q15720411,Фёдор Дмитриевич Студитский,1
+http://www.wikidata.org/entity/Q15720414,Игорь Иванович Тарабукин,1
+http://www.wikidata.org/entity/Q15720415,Владимир Алексеевич Тихонов,1
+http://www.wikidata.org/entity/Q15720412,Панкратий Платонович Сумароков,1
+http://www.wikidata.org/entity/Q15720413,Павел Сергеевич Сухотин,1
+http://www.wikidata.org/entity/Q15720416,Феликс Густавович Толль,1
+http://www.wikidata.org/entity/Q15720417,Андрей Иванович Тургенев,1
+http://www.wikidata.org/entity/Q15720420,Лев Игнатьевич Уманец,1
+http://www.wikidata.org/entity/Q15720426,Михаил Авраамович Филиппов,1
+http://www.wikidata.org/entity/Q15720428,Григорий Александрович Хованский,1
+http://www.wikidata.org/entity/Q15720436,Евгения Михайловна Чистякова-Вэр,1
+http://www.wikidata.org/entity/Q15720440,Валериан Павлович Шемиот,1
+http://www.wikidata.org/entity/Q15720448,Юлий Осипович Шрейер,1
+http://www.wikidata.org/entity/Q17908455,Леонид Вульфович Вилкомир,1
+http://www.wikidata.org/entity/Q17908478,Валериан Николаевич Олин,1
+http://www.wikidata.org/entity/Q17908532,Людмила Николаевна Вилькина,1
+http://www.wikidata.org/entity/Q56872361,Павел Амплиевич Россиев,1
+http://www.wikidata.org/entity/Q58227312,Михаил Абрамович Улицкий,1
+http://www.wikidata.org/entity/Q58366718,Q58366718,1
+http://www.wikidata.org/entity/Q58484135,Василий Степанович Морозов,1
+http://www.wikidata.org/entity/Q59660494,Аркадий Цатурян,1
+http://www.wikidata.org/entity/Q59913750,Эдуард  Аренц,1
+http://www.wikidata.org/entity/Q60029750,Ваче Епремян,1
+http://www.wikidata.org/entity/Q60429648,"Березин, Николай Ильич",1
+http://www.wikidata.org/entity/Q12837115,Ашуг Гусейн Бозалганлы,1
+http://www.wikidata.org/entity/Q12838611,Дирили Сурхай,1
+http://www.wikidata.org/entity/Q12841542,Q12841542,1
+http://www.wikidata.org/entity/Q12842057,Мирза Гусейн-бек Чакер,1
+http://www.wikidata.org/entity/Q12842115,Мирза Исмаил Махзун,1
+http://www.wikidata.org/entity/Q12843490,Наджаф Кули-бек Шейда,1
+http://www.wikidata.org/entity/Q25417335,"Штрайх, Соломон Яковлевич",1
+http://www.wikidata.org/entity/Q25442175,Ге Иван Николаевич,1
+http://www.wikidata.org/entity/Q25489744,Хаим Гильдин,1
+http://www.wikidata.org/entity/Q26244392,"Островская, Галина Арсеньевна",1
+http://www.wikidata.org/entity/Q26244607,"Добржинский, Гавриил Валерианович",1
+http://www.wikidata.org/entity/Q26295057,Андрей Иванович Щетников,1
+http://www.wikidata.org/entity/Q26698861,Василий Тимофеевич Плаксин,1
+http://www.wikidata.org/entity/Q26706225,"Татищев, Леонид Леонидович",1
+http://www.wikidata.org/entity/Q26988695,Щорс Давтян,1
+http://www.wikidata.org/entity/Q23894922,Николай Семёнович Вылка,1
+http://www.wikidata.org/entity/Q23901142,Григорий Емельянович Замчалов,1
+http://www.wikidata.org/entity/Q24010662,"Винтман, Павел Ильич",1
+http://www.wikidata.org/entity/Q24049576,"Коральник, Абрам Давидович",1
+http://www.wikidata.org/entity/Q24195749,Пётр Семёнович Смирнов,1
+http://www.wikidata.org/entity/Q24199795,"Светлов, Павел Яковлевич",1
+http://www.wikidata.org/entity/Q24255760,Q24255760,1
+http://www.wikidata.org/entity/Q24256472,Александр Александрович Папков,1
+http://www.wikidata.org/entity/Q24262039,Порфирий Петрович Мироносицкий,1
+http://www.wikidata.org/entity/Q24263405,Q24263405,1
+http://www.wikidata.org/entity/Q13054020,Маро Маркарян,1
+http://www.wikidata.org/entity/Q13054126,Мкртич Корюн,1
+http://www.wikidata.org/entity/Q13054150,"Галшоян, Мушег",1
+http://www.wikidata.org/entity/Q13054187,Юрий Саакян,1
+http://www.wikidata.org/entity/Q13054196,Наира Амбарцумян,1
+http://www.wikidata.org/entity/Q13054258,Q13054258,1
+http://www.wikidata.org/entity/Q13054358,Оноприос Анопьян,1
+http://www.wikidata.org/entity/Q13054748,Согомон Таронци,1
+http://www.wikidata.org/entity/Q13054880,Степан Куртикян,1
+http://www.wikidata.org/entity/Q13054919,Q13054919,1
+http://www.wikidata.org/entity/Q13054945,Q13054945,1
+http://www.wikidata.org/entity/Q13054952,Ваграм Мартиросян,1
+http://www.wikidata.org/entity/Q13054971,Вачаган Саркисян,1
+http://www.wikidata.org/entity/Q13054978,Варлен Алексанян,1
+http://www.wikidata.org/entity/Q13055004,Q13055004,1
+http://www.wikidata.org/entity/Q13055172,Пашт Авакян,1
+http://www.wikidata.org/entity/Q13201783,Николай Федотович Бажин,1
+http://www.wikidata.org/entity/Q19907032,Николай Петрович Осипов,1
+http://www.wikidata.org/entity/Q19908337,"Глаголев, Сергей Сергеевич",1
+http://www.wikidata.org/entity/Q12850258,Анвар Чингизоглу,1
+http://www.wikidata.org/entity/Q22138651,Сасун Григорян,1
+http://www.wikidata.org/entity/Q22138680,Q22138680,1
+http://www.wikidata.org/entity/Q22162582,Марк Григорьевич Волосов,1
+http://www.wikidata.org/entity/Q22192731,Яков Соломонович Пан,1
+http://www.wikidata.org/entity/Q22246773,"Гарднер, Вадим Данилович",1
+http://www.wikidata.org/entity/Q22283661,"Кудашёв, Василий Михайлович",1
+http://www.wikidata.org/entity/Q25687458,"Агейкин, Григорий Петрович",1
+http://www.wikidata.org/entity/Q26234998,"Андреянов, Виктор Андреевич",1
+http://www.wikidata.org/entity/Q25680755,Усеин Тохтаргазы,1
+http://www.wikidata.org/entity/Q12570976,"Абенов, Шакир",1
+http://www.wikidata.org/entity/Q16145925,Арутюн Манукович Аламдарян,1
+http://www.wikidata.org/entity/Q16350770,Q16350770,1
+http://www.wikidata.org/entity/Q13132753,"Кончевский, Игнат Владимирович",1
+http://www.wikidata.org/entity/Q13133003,Q13133003,1
+http://www.wikidata.org/entity/Q106684062,Асмик Дарьян,1
+http://www.wikidata.org/entity/Q18243592,Виктор Петрович Клюшников,1
+http://www.wikidata.org/entity/Q18280498,"Ютанов, Владимир Павлович",1
+http://www.wikidata.org/entity/Q18342727,Марк Давидович Эйхенгольц,1
+http://www.wikidata.org/entity/Q18342735,Корнилий Яковлевич Тромонин,1
+http://www.wikidata.org/entity/Q18343237,Сергей Львович Рафалович,1
+http://www.wikidata.org/entity/Q18533690,Q18533690,1
+http://www.wikidata.org/entity/Q19617425,Александр Николаевич Карамзин,1
+http://www.wikidata.org/entity/Q19618933,Михаил Николаевич Лихонин,1
+http://www.wikidata.org/entity/Q19850346,Михал Богуш-Шишко,1
+http://www.wikidata.org/entity/Q19858168,Андрей Николаевич Бородин,1
+http://www.wikidata.org/entity/Q18910354,Артем Арутюнян,1
+http://www.wikidata.org/entity/Q18924352,"Абдуллин, Мазгар Гилязетдинович",1
+http://www.wikidata.org/entity/Q19127967,"Лебеденко, Александр Гервасьевич",1
+http://www.wikidata.org/entity/Q19130401,Андреас фон Левиз-оф-Менар,1
+http://www.wikidata.org/entity/Q19152786,Павел Михайлович Ковалевский,1
+http://www.wikidata.org/entity/Q19268342,Q19268342,1
+http://www.wikidata.org/entity/Q16378016,Q16378016,1
+http://www.wikidata.org/entity/Q16378250,Геворг Айрян,1
+http://www.wikidata.org/entity/Q16382438,Люся  Аргутинская,1
+http://www.wikidata.org/entity/Q16382691,Q16382691,1
+http://www.wikidata.org/entity/Q16382704,Левон Блбулян,1
+http://www.wikidata.org/entity/Q16382750,Левон Мириджанян,1
+http://www.wikidata.org/entity/Q16383621,Атабек Хнкоян,1
+http://www.wikidata.org/entity/Q16388239,Арутюн Араратян,1
+http://www.wikidata.org/entity/Q16388689,Ованес Акопян,1
+http://www.wikidata.org/entity/Q16388818,Рипсиме Погосян,1
+http://www.wikidata.org/entity/Q16396026,Q16396026,1
+http://www.wikidata.org/entity/Q16398423,Роза Петросян,1
+http://www.wikidata.org/entity/Q16399202,Симеон Ахумян,1
+http://www.wikidata.org/entity/Q16400119,Степан Топчян,1
+http://www.wikidata.org/entity/Q16400346,Вагинак Бекарян,1
+http://www.wikidata.org/entity/Q16400562,Варос Овакимян,1
+http://www.wikidata.org/entity/Q16400723,Q16400723,1
+http://www.wikidata.org/entity/Q64224640,Грант Абрамян,1
+http://www.wikidata.org/entity/Q64513673,Лия Балагян,1
+http://www.wikidata.org/entity/Q64711687,Борис Владимирович Горнунг,1
+http://www.wikidata.org/entity/Q65096307,Владимир Габриэлович Айрапетян,1
+http://www.wikidata.org/entity/Q65123591,"Скубенко-Яблоновский, Борис Михайлович",1
+http://www.wikidata.org/entity/Q47015343,"Вахтин, Василий Васильевич",1
+http://www.wikidata.org/entity/Q47068207,Борис Владимирович Жиркович,1
+http://www.wikidata.org/entity/Q47385789,Q47385789,1
+http://www.wikidata.org/entity/Q47453803,Вячеслав Николаевич Афанасьев,1
+http://www.wikidata.org/entity/Q48216996,Q48216996,1
+http://www.wikidata.org/entity/Q48644736,Армен Оганесян,1
+http://www.wikidata.org/entity/Q48963308,"Артёмов, Александр Александрович",1
+http://www.wikidata.org/entity/Q49246976,Геворк Татосян,1
+http://www.wikidata.org/entity/Q61917307,Размик Тонян,1
+http://www.wikidata.org/entity/Q61935945,Q61935945,1
+http://www.wikidata.org/entity/Q61963998,"Буланина, Елена Алексеевна",1
+http://www.wikidata.org/entity/Q62031576,Анаит Чибухчян,1
+http://www.wikidata.org/entity/Q62060648,Асмик  Караян,1
+http://www.wikidata.org/entity/Q62221522,Лилит,1
+http://www.wikidata.org/entity/Q62630613,Аида Гюмреци,1
+http://www.wikidata.org/entity/Q62978080,Шушаник Тамразян,1
+http://www.wikidata.org/entity/Q63020628,"Тимофеев, Григорий Николаевич",1
+http://www.wikidata.org/entity/Q63872462,Меружан,1
+http://www.wikidata.org/entity/Q15744622,"Пилипенко, Сергей Владимирович",1
+http://www.wikidata.org/entity/Q15845827,"Меньшиков, Иван Николаевич",1
+http://www.wikidata.org/entity/Q27477987,"Делакроа, Иван Иванович",1
+http://www.wikidata.org/entity/Q27643855,Q27643855,1
+http://www.wikidata.org/entity/Q27995121,"Якубовский, Георгий Васильевич",1
+http://www.wikidata.org/entity/Q28017374,"Куч, Кароль",1
+http://www.wikidata.org/entity/Q28065150,Гусейн-ага Джеваншир,1
+http://www.wikidata.org/entity/Q28161071,"Ивантер, Беньямин Абрамович",1
+http://www.wikidata.org/entity/Q28359511,Иосиф Яшунский,1
+http://www.wikidata.org/entity/Q13402861,Нерсес Позапалян,1
+http://www.wikidata.org/entity/Q13405472,Василий Григорьевич Ян,1
+http://www.wikidata.org/entity/Q13422088,Израиль Лейзерович,1
+http://www.wikidata.org/entity/Q13424568,"Драй-Хмара, Михаил Афанасьевич",1
+http://www.wikidata.org/entity/Q16368455,Анаит Арамовна Сагинян,1
+http://www.wikidata.org/entity/Q16370135,Мирза Гусейн-бек Салар,1
+http://www.wikidata.org/entity/Q19985368,Александр Григорьевич Цейтлин,1
+http://www.wikidata.org/entity/Q20061740,Михаил Николаевич Мазаев,1
+http://www.wikidata.org/entity/Q28500508,Вячеслав Никандрович Самуилов,1
+http://www.wikidata.org/entity/Q28665658,"Хашин, Александр Борисович",1
+http://www.wikidata.org/entity/Q28842155,Виктор Евстафьевич Хрисонопуло,1
+http://www.wikidata.org/entity/Q16536072,Иван Александрович Бек,1
+http://www.wikidata.org/entity/Q16563949,Юрий Ипполитович Лисовский,1
+http://www.wikidata.org/entity/Q16580340,"Обидный, Михаил Юрьевич",1
+http://www.wikidata.org/entity/Q16626866,"Бессонов, Александр Григорьевич",1
+http://www.wikidata.org/entity/Q16628659,Вадим Александрович Быстрянский,1
+http://www.wikidata.org/entity/Q16369181,Ашот Шайбон,1
+http://www.wikidata.org/entity/Q16370172,Мирза Мехти-бек Сарыджалинский,1
+http://www.wikidata.org/entity/Q16370282,Мирза Садиг Пиран,1
+http://www.wikidata.org/entity/Q61030626,Усик Хандамурян,1
+http://www.wikidata.org/entity/Q61292382,Ованес Арутюнян,1
+http://www.wikidata.org/entity/Q61668061,Грета Мкртчян,1
+http://www.wikidata.org/entity/Q61754593,Гурген Стамбольцян,1
+http://www.wikidata.org/entity/Q16370390,Арам Григорян,1
+http://www.wikidata.org/entity/Q16376278,Араз Ягубоглу,1
+http://www.wikidata.org/entity/Q60714308,Алла Тер-Акопян,1
+http://www.wikidata.org/entity/Q61410043,Q61410043,1
+http://www.wikidata.org/entity/Q61451718,Q61451718,1
+http://www.wikidata.org/entity/Q61728712,Ваге Погосян,1
+http://www.wikidata.org/entity/Q16371771,Q16371771,1
+http://www.wikidata.org/entity/Q16376020,Гарегин Севунц,1
+http://www.wikidata.org/entity/Q16376056,Гаруш Арянц,1
+http://www.wikidata.org/entity/Q20732,Эрнест Карлович Дрезен,1
+http://www.wikidata.org/entity/Q20887,"Ерошенко, Василий Яковлевич",1
+http://www.wikidata.org/entity/Q4137,Эльза Триоле,1
+http://www.wikidata.org/entity/Q30101220,"Шатров, Николай Михайлович",1
+http://www.wikidata.org/entity/Q30344845,Мушег Нарян,1
+http://www.wikidata.org/entity/Q16401633,Каджик Григорян,1
+http://www.wikidata.org/entity/Q16476822,"Шимкус, Владас",1
+http://www.wikidata.org/entity/Q20477897,"Изгур, Илья Ефимович",1
+http://www.wikidata.org/entity/Q20502819,Q20502819,1
+http://www.wikidata.org/entity/Q20507427,Нансен Микаэлян,1
+http://www.wikidata.org/entity/Q20507878,Арутюн Мкртчян,1
+http://www.wikidata.org/entity/Q20507955,Карлен Даниелян,1
+http://www.wikidata.org/entity/Q20508202,Игнат Мамян,1
+http://www.wikidata.org/entity/Q20508872,Геворк Хачатур,1
+http://www.wikidata.org/entity/Q20509010,"Мурадян, Сурен",1
+http://www.wikidata.org/entity/Q20509590,Q20509590,1
+http://www.wikidata.org/entity/Q20510080,Микаел Арутюнян,1
+http://www.wikidata.org/entity/Q20511717,Гурген Овнан,1
+http://www.wikidata.org/entity/Q20478143,Q20478143,1
+http://www.wikidata.org/entity/Q20507926,Шант Мкртчян,1
+http://www.wikidata.org/entity/Q20509549,"Дурян, Людвиг",1
+http://www.wikidata.org/entity/Q20509942,Азат Егиазарян,1
+http://www.wikidata.org/entity/Q20509997,Вано Егиазярян,1
+http://www.wikidata.org/entity/Q20510125,Арташес Погосян,1
+http://www.wikidata.org/entity/Q20510236,Жанна Абрамян,1
+http://www.wikidata.org/entity/Q20510747,Давид Гаспарян,1
+http://www.wikidata.org/entity/Q20511337,Ованес Мелконян,1
+http://www.wikidata.org/entity/Q20511409,Азат Шагинян,1
+http://www.wikidata.org/entity/Q20511537,Максим Ервандович Ованесян,1
+http://www.wikidata.org/entity/Q20579029,"Радиани, Шалва Дмитриевич",1
+http://www.wikidata.org/entity/Q20859132,"Степанова, Розалия Михайловна",1
+http://www.wikidata.org/entity/Q20873699,Азария Аделян,1
+http://www.wikidata.org/entity/Q20974107,Василий Иванович Орлов,1
+http://www.wikidata.org/entity/Q20978292,"Познанский, Юрий Игнатьевич",1
+http://www.wikidata.org/entity/Q21088833,"Бахтурин, Константин Александрович",1
+http://www.wikidata.org/entity/Q41117,Ким Ир Сен,1
+http://www.wikidata.org/entity/Q85212122,Ашот Алексанян,1
+http://www.wikidata.org/entity/Q85313846,Гарник Манукян,1
+http://www.wikidata.org/entity/Q85547569,Q85547569,1
+http://www.wikidata.org/entity/Q86050385,Q86050385,1
+http://www.wikidata.org/entity/Q86533881,Степан Микаелян,1
+http://www.wikidata.org/entity/Q86720710,Q86720710,1
+http://www.wikidata.org/entity/Q86840985,Вардгес Ханоян,1
+http://www.wikidata.org/entity/Q91083301,Q91083301,1
+http://www.wikidata.org/entity/Q25997,Иннокентий Фёдорович Анненский,1
+http://www.wikidata.org/entity/Q28944464,"Тихонов, Алексей Алексеевич",1
+http://www.wikidata.org/entity/Q29296740,Александр Николаевич Глебов,1
+http://www.wikidata.org/entity/Q29358771,Евгений Георгиевич Геркен,1
+http://www.wikidata.org/entity/Q29548097,Герман Давидович Клейф,1
+http://www.wikidata.org/entity/Q29643938,Иван Ермолаевич Великопольский,1
+http://www.wikidata.org/entity/Q29944663,"Буачидзе, Бенито Михайлович",1
+http://www.wikidata.org/entity/Q66026049,Джанибек Джанибекян,1
+http://www.wikidata.org/entity/Q96429380,Алексей Николаевич Греч,1
+http://www.wikidata.org/entity/Q96777027,Новицкая Александра Николаевна,1
+http://www.wikidata.org/entity/Q20511740,Тадевос Закарян,1
+http://www.wikidata.org/entity/Q20511928,Q20511928,1
+http://www.wikidata.org/entity/Q20512573,Q20512573,1
+http://www.wikidata.org/entity/Q20512791,Сако Саркисян,1
+http://www.wikidata.org/entity/Q20513254,Генрих Анасян,1
+http://www.wikidata.org/entity/Q20513303,Артур Андраникян,1
+http://www.wikidata.org/entity/Q20513332,Беник Сейранян,1
+http://www.wikidata.org/entity/Q20514518,Степан Закарян,1
+http://www.wikidata.org/entity/Q31196254,Сасун Варданян,1
+http://www.wikidata.org/entity/Q40012339,"Розеншильд-Паулин, Владимир Александрович",1
+http://www.wikidata.org/entity/Q41201405,"Глазов, Григорий Соломонович",1
+http://www.wikidata.org/entity/Q41862281,Николай Борисович Хвостов,1
+http://www.wikidata.org/entity/Q42295333,"Горнунг, Лев Владимирович",1
+http://www.wikidata.org/entity/Q42301903,Степан Фёдорович Аниканов,1
+http://www.wikidata.org/entity/Q42302113,"Анисимов, Сергей Сергеевич",1
+http://www.wikidata.org/entity/Q42302119,"Антипов, Константин Михайлович",1
+http://www.wikidata.org/entity/Q42331270,Василий Петрович Бельков,1
+http://www.wikidata.org/entity/Q42408517,Александр Брянский,1
+http://www.wikidata.org/entity/Q42409438,"Варваркина, Зинаида Федоровна",1
+http://www.wikidata.org/entity/Q42460301,"Ясный, Александр Маркович",1
+http://www.wikidata.org/entity/Q12749,Казимеж Беин,1
+http://www.wikidata.org/entity/Q79782430,"Росин, Самуил Израилевич",1
+http://www.wikidata.org/entity/Q81794643,Мисак Овенц,1
+http://www.wikidata.org/entity/Q35448,Пётр Николаевич Краснов,1
+http://www.wikidata.org/entity/Q21095946,Анна Николаевна Энгельгардт,1
+http://www.wikidata.org/entity/Q98270507,"Семёнов, Владимир Иванович",1
+http://www.wikidata.org/entity/Q99041364,"Чижевский, Иоанн Лукич",1
+http://www.wikidata.org/entity/Q104451616,Мартин Барсегян,1
+http://www.wikidata.org/entity/Q16996,Всеволод Сергеевич Соловьёв,1
+http://www.wikidata.org/entity/Q61971,Хенрик Жевуский,1
+http://www.wikidata.org/entity/Q48067,Дмитрий Фёдорович Устинов,1
+http://www.wikidata.org/entity/Q51131,Николай Александрович Львов,1
+http://www.wikidata.org/entity/Q56686,Павлюк Багрим,1
+http://www.wikidata.org/entity/Q56713,"Гроза, Александр",1
+http://www.wikidata.org/entity/Q60128,Александр Александрович Фадеев,1
+http://www.wikidata.org/entity/Q60868,Армен Мартинович Айвазян,1
